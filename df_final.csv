@@ -1,0 +1,451 @@
+,album_release_year,album_name,album_link,album_artist_link,total_albums_artist,users_have,users_want,user_rating,total_rating,lowest_price,median_price,highest_price,total_versions,years_since_release
+0,1973,The Dark Side Of The Moon,https://www.discogs.com/master/10362-Pink-Floyd-The-Dark-Side-Of-The-Moon,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,33460.0,10294.0,4.66,3245.0,10.0,28.98,250.0,111.0,49
+1,1967,Sgt. Pepper's Lonely Hearts Club Band,https://www.discogs.com/master/23934-The-Beatles-Sgt-Peppers-Lonely-Hearts-Club-Band,https://www.discogs.com/artist/82730-The-Beatles,157.0,1498.0,1015.0,4.54,137.0,22.56,50.48,72.12,5.0,55
+2,1969,Abbey Road,https://www.discogs.com/master/24047-The-Beatles-Abbey-Road,https://www.discogs.com/artist/82730-The-Beatles,157.0,978.0,899.0,4.52,122.0,9.02,45.11,89.99,27.0,53
+3,1975,Wish You Were Here,https://www.discogs.com/master/11703-Pink-Floyd-Wish-You-Were-Here,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,3822.0,1115.0,4.52,361.0,11.36,18.18,75.0,22.0,47
+4,1977,Rumours,https://www.discogs.com/master/38722-Fleetwood-Mac-Rumours,https://www.discogs.com/artist/47333-Fleetwood-Mac,120.0,4508.0,1077.0,4.35,531.0,5.68,17.05,39.77,18.0,45
+5,1982,Thriller,https://www.discogs.com/master/8883-Michael-Jackson-Thriller,https://www.discogs.com/artist/15885-Michael-Jackson,21.0,25762.0,2867.0,4.44,2365.0,4.97,16.8,33.61,197.0,40
+6,1979,The Wall,https://www.discogs.com/master/11329-Pink-Floyd-The-Wall,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,,,,,,,,,43
+7,1971,Untitled ,https://www.discogs.com/master/4300-Led-Zeppelin-Untitled-,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,752.0,1034.0,4.55,108.0,37.84,114.86,202.64,22.0,51
+8,1968,The Beatles,https://www.discogs.com/master/46402-The-Beatles-The-Beatles,https://www.discogs.com/artist/82730-The-Beatles,157.0,931.0,731.0,4.47,80.0,32.45,91.23,216.35,6.0,54
+9,1969,Led Zeppelin II,https://www.discogs.com/master/4170-Led-Zeppelin-Led-Zeppelin-II,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,1342.0,1064.0,4.48,148.0,8.52,32.58,198.86,67.0,53
+10,1969,Led Zeppelin,https://www.discogs.com/master/4126-Led-Zeppelin-Led-Zeppelin,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,229.0,1663.0,4.71,35.0,,,,,53
+11,1985,Brothers In Arms,https://www.discogs.com/master/23684-Dire-Straits-Brothers-In-Arms,https://www.discogs.com/artist/103687-Dire-Straits,60.0,9788.0,787.0,4.41,984.0,3.4,14.43,28.41,62.0,37
+12,1966,Revolver,https://www.discogs.com/master/45284-The-Beatles-Revolver,https://www.discogs.com/artist/82730-The-Beatles,157.0,3179.0,1655.0,4.65,396.0,27.0,105.19,590.91,27.0,56
+13,1959,Kind Of Blue,https://www.discogs.com/master/5460-Miles-Davis-Kind-Of-Blue,https://www.discogs.com/artist/23755-Miles-Davis,155.0,1840.0,3586.0,4.73,315.0,39.99,132.72,299.95,7.0,63
+14,1972,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,https://www.discogs.com/master/1561-David-Bowie-The-Rise-And-Fall-Of-Ziggy-Stardust-And-The-Spiders-From-Mars,https://www.discogs.com/artist/10263-David-Bowie,95.0,5945.0,2140.0,4.64,600.0,10.0,34.0,125.0,14.0,50
+15,1965,Rubber Soul,https://www.discogs.com/master/45526-The-Beatles-Rubber-Soul,https://www.discogs.com/artist/82730-The-Beatles,157.0,2747.0,1677.0,4.57,335.0,13.57,40.72,176.47,30.0,57
+16,1970,Led Zeppelin III,https://www.discogs.com/master/4199-Led-Zeppelin-Led-Zeppelin-III,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,387.0,834.0,4.35,46.0,22.72,45.45,90.91,6.0,52
+17,1980,Back In Black,https://www.discogs.com/master/8471-ACDC-Back-In-Black,https://www.discogs.com/artist/84752-ACDC,40.0,1475.0,822.0,4.38,198.0,13.56,31.9,190.05,9.0,42
+18,1976,Hotel California,https://www.discogs.com/master/59501-Eagles-Hotel-California,https://www.discogs.com/artist/255680-Eagles,24.0,2926.0,555.0,3.98,328.0,5.68,11.35,14.2,26.0,46
+19,1977,Animals,https://www.discogs.com/master/10370-Pink-Floyd-Animals,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,129.0,496.0,4.2,10.0,6.77,10.86,24.99,2.0,45
+20,1987,Appetite For Destruction,https://www.discogs.com/master/9467-Guns-N-Roses-Appetite-For-Destruction,https://www.discogs.com/artist/124535-Guns-N-Roses,17.0,3543.0,4730.0,4.55,483.0,5.0,230.0,499.0,13.0,35
+21,1984,Purple Rain,https://www.discogs.com/master/16245-Prince-And-The-Revolution-Purple-Rain,https://www.discogs.com/artist/96774-Prince-And-The-Revolution,3.0,11359.0,1270.0,4.3,825.0,4.43,14.2,31.82,67.0,38
+22,1970,Paranoid,https://www.discogs.com/master/302-Black-Sabbath-Paranoid,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,4161.0,2080.0,4.48,491.0,14.2,65.0,181.82,58.0,52
+23,1970,Let It Be,https://www.discogs.com/master/24212-The-Beatles-Let-It-Be,https://www.discogs.com/artist/82730-The-Beatles,157.0,20890.0,3291.0,4.35,1720.0,7.5,17.97,148.0,72.0,52
+24,1984,Born In The U.S.A.,https://www.discogs.com/master/26701-Bruce-Springsteen-Born-In-The-USA,https://www.discogs.com/artist/219986-Bruce-Springsteen,89.0,6463.0,418.0,4.1,505.0,3.0,9.38,23.99,87.0,38
+25,1994,MTV Unplugged In New York,https://www.discogs.com/master/22433-Nirvana-MTV-Unplugged-In-New-York,https://www.discogs.com/artist/125246-Nirvana,8.0,4003.0,764.0,4.49,527.0,0.95,3.0,8.0,42.0,28
+26,1973,1967-1970,https://www.discogs.com/master/24155-The-Beatles-1967-1970,https://www.discogs.com/artist/82730-The-Beatles,157.0,6470.0,326.0,4.35,598.0,2.26,14.54,31.53,83.0,49
+27,1967,The Doors,https://www.discogs.com/master/45347-The-Doors-The-Doors,https://www.discogs.com/artist/56798-The-Doors,60.0,13969.0,5808.0,4.54,1279.0,3.95,20.49,79.99,19.0,55
+28,1987,The Joshua Tree,https://www.discogs.com/master/64290-U2-The-Joshua-Tree,https://www.discogs.com/artist/6520-U2,71.0,2450.0,491.0,4.16,113.0,8.11,16.62,40.54,1.0,35
+29,1997,OK Computer,https://www.discogs.com/master/21491-Radiohead-OK-Computer,https://www.discogs.com/artist/3840-Radiohead,38.0,6160.0,911.0,4.53,1011.0,1.53,3.97,9.99,85.0,25
+30,1971,Meddle,https://www.discogs.com/master/20649-Pink-Floyd-Meddle,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,4056.0,734.0,4.36,421.0,2.26,17.48,28.2,54.0,51
+31,1973,1962-1966,https://www.discogs.com/master/23881-The-Beatles-1962-1966,https://www.discogs.com/artist/82730-The-Beatles,157.0,5493.0,257.0,4.29,546.0,7.38,16.48,22.73,90.0,49
+32,1972,Harvest,https://www.discogs.com/master/37615-Neil-Young-Harvest,https://www.discogs.com/artist/138556-Neil-Young,83.0,4240.0,816.0,4.46,370.0,7.84,14.2,44.2,29.0,50
+33,1973,Houses Of The Holy,https://www.discogs.com/master/4326-Led-Zeppelin-Houses-Of-The-Holy,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,8641.0,4156.0,4.33,745.0,9.02,39.88,128.96,71.0,49
+34,1975,A Night At The Opera,https://www.discogs.com/master/5863-Queen-A-Night-At-The-Opera,https://www.discogs.com/artist/81013-Queen,85.0,4196.0,885.0,4.25,353.0,11.28,20.84,39.47,24.0,47
+35,1979,Breakfast In America,https://www.discogs.com/master/25362-Supertramp-Breakfast-In-America,https://www.discogs.com/artist/251517-Supertramp,45.0,15878.0,1209.0,4.17,1431.0,3.41,11.34,41.83,96.0,43
+36,1981,Greatest Hits,https://www.discogs.com/master/7941-Queen-Greatest-Hits,https://www.discogs.com/artist/81013-Queen,85.0,,,,,,,,,41
+37,1984,Legend (The Best Of Bob Marley And The Wailers),https://www.discogs.com/master/65863-Bob-Marley-The-Wailers-Legend-The-Best-Of-Bob-Marley-And-The-Wailers,https://www.discogs.com/artist/21764-Bob-Marley-amp-The-Wailers,64.0,4766.0,766.0,4.42,465.0,3.18,17.04,31.82,31.0,38
+38,1978,Dire Straits,https://www.discogs.com/master/23759-Dire-Straits-Dire-Straits,https://www.discogs.com/artist/103687-Dire-Straits,60.0,5220.0,462.0,4.26,447.0,4.51,11.28,28.2,29.0,44
+39,1986,Master Of Puppets,https://www.discogs.com/master/6495-Metallica-Master-Of-Puppets,https://www.discogs.com/artist/18839-Metallica,134.0,2382.0,1104.0,4.63,281.0,43.77,73.86,113.64,16.0,36
+40,1979,London Calling,https://www.discogs.com/master/19382-The-Clash-London-Calling,https://www.discogs.com/artist/29890-The-Clash,19.0,9570.0,2584.0,4.52,1000.0,22.61,39.2,102.16,50.0,43
+41,1967,Are You Experienced,https://www.discogs.com/master/24497-The-Jimi-Hendrix-Experience-Are-You-Experienced,https://www.discogs.com/artist/255672-The-Jimi-Hendrix-Experience,30.0,589.0,1166.0,4.51,81.0,25.0,57.5,225.0,4.0,55
+42,1967,Magical Mystery Tour,https://www.discogs.com/master/54463-The-Beatles-Magical-Mystery-Tour,https://www.discogs.com/artist/82730-The-Beatles,157.0,19089.0,3417.0,4.36,1163.0,4.0,22.5,185.0,29.0,55
+43,1970,Bridge Over Troubled Water,https://www.discogs.com/master/27765-Simon-and-Garfunkel-Bridge-Over-Troubled-Water,https://www.discogs.com/artist/232157-Simon-Garfunkel,11.0,1248.0,353.0,4.12,102.0,1.02,7.95,20.45,22.0,52
+44,1975,Physical Graffiti,https://www.discogs.com/master/4392-Led-Zeppelin-Physical-Graffiti,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,11281.0,5393.0,4.48,1047.0,20.27,60.81,22.73,109.0,47
+45,1987,Bad,https://www.discogs.com/master/8517-Michael-Jackson-Bad,https://www.discogs.com/artist/15885-Michael-Jackson,21.0,21775.0,3330.0,4.29,2127.0,4.07,13.64,33.94,188.0,35
+46,1971,Who's Next,https://www.discogs.com/master/68469-The-Who-Whos-Next,https://www.discogs.com/artist/196766-The-Who,80.0,9463.0,3922.0,4.41,767.0,13.51,34.09,108.11,52.0,51
+47,1984,Ride The Lightning,https://www.discogs.com/master/6440-Metallica-Ride-The-Lightning,https://www.discogs.com/artist/18839-Metallica,134.0,2753.0,1071.0,4.57,298.0,32.95,67.05,113.64,11.0,38
+48,1971,Sticky Fingers ,https://www.discogs.com/master/23828-The-Rolling-Stones-Sticky-Fingers-,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,7048.0,1741.0,4.42,498.0,6.66,39.5,150.0,19.0,51
+49,1967,The Velvet Underground & Nico,https://www.discogs.com/master/35276-The-Velvet-Underground-Nico-The-Velvet-Underground-Nico,https://www.discogs.com/artist/39766-The-Velvet-Underground,19.0,33.0,668.0,4.3,10.0,,,,,55
+50,1983,Let's Dance,https://www.discogs.com/master/48753-David-Bowie-Lets-Dance,https://www.discogs.com/artist/10263-David-Bowie,95.0,13144.0,1078.0,4.02,1190.0,3.5,9.3,21.98,112.0,39
+51,1977,Never Mind The Bollocks Here's The Sex Pistols,https://www.discogs.com/master/30445-Sex-Pistols-Never-Mind-The-Bollocks-Heres-The-Sex-Pistols,https://www.discogs.com/artist/31753-Sex-Pistols,18.0,2121.0,538.0,4.26,181.0,4.43,22.72,56.81,14.0,45
+52,1979,Unknown Pleasures,https://www.discogs.com/master/4805-Joy-Division-Unknown-Pleasures,https://www.discogs.com/artist/3898-Joy-Division,8.0,7184.0,7470.0,4.7,1183.0,74.66,183.64,339.77,7.0,43
+53,1969,In The Court Of The Crimson King (An Observation By King Crimson),https://www.discogs.com/master/406634-King-Crimson-In-The-Court-Of-The-Crimson-King-An-Observation-By-King-Crimson,https://www.discogs.com/artist/70828-King-Crimson,194.0,3215.0,1259.0,4.58,357.0,9.99,20.49,75.0,16.0,53
+54,1977,Saturday Night Fever (The Original Movie Sound Track),https://www.discogs.com/master/23443-Various-Saturday-Night-Fever-The-Original-Movie-Sound-Track,https://www.discogs.com/artist/Various?anv=,,3642.0,290.0,3.93,430.0,1.02,5.54,17.03,114.0,45
+55,1972,Simon And Garfunkel's Greatest Hits,https://www.discogs.com/master/27798-Simon-Garfunkel-Simon-And-Garfunkels-Greatest-Hits,https://www.discogs.com/artist/232157-Simon-amp-Garfunkel,11.0,2494.0,181.0,4.03,208.0,3.11,5.53,11.28,41.0,50
+56,1971,L.A. Woman,https://www.discogs.com/master/45432-Doors-LA-Woman,https://www.discogs.com/artist/56798-The-Doors,60.0,659.0,618.0,4.47,89.0,10.23,17.05,39.77,5.0,51
+57,1983,Synchronicity,https://www.discogs.com/master/39248-The-Police-Synchronicity,https://www.discogs.com/artist/7987-The-Police,43.0,4512.0,713.0,3.96,416.0,2.0,11.82,30.0,23.0,39
+58,1982,The Number Of The Beast,https://www.discogs.com/master/18742-Iron-Maiden-The-Number-Of-The-Beast,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,248.0,344.0,4.56,34.0,15.79,28.65,60.0,2.0,40
+59,1979,Highway To Hell,https://www.discogs.com/master/8522-ACDC-Highway-To-Hell,https://www.discogs.com/artist/84752-ACDC,40.0,7770.0,1629.0,4.34,722.0,7.0,32.5,68.99,7.0,43
+60,1970,Black Sabbath,https://www.discogs.com/master/723-Black-Sabbath-Black-Sabbath,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,3421.0,5465.0,4.54,586.0,95.02,271.49,153.85,19.0,52
+61,1976,Boston,https://www.discogs.com/master/59355-Boston-Boston,https://www.discogs.com/artist/113020-Boston,11.0,7781.0,530.0,4.27,530.0,3.0,8.99,20.0,41.0,46
+62,1969,Let It Bleed,https://www.discogs.com/master/52967-Rolling-Stones-Let-It-Bleed,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,5197.0,1323.0,4.46,423.0,7.95,19.92,144.0,33.0,53
+63,1988,...And Justice For All,https://www.discogs.com/master/6571-Metallica-And-Justice-For-All,https://www.discogs.com/artist/18839-Metallica,134.0,2853.0,348.0,4.36,422.0,2.03,4.55,8.52,39.0,34
+64,1970,Déjà Vu,https://www.discogs.com/master/38712-Crosby-Stills-Nash-Young-D%C3%A9j%C3%A0-Vu,https://www.discogs.com/artist/285408-Crosby-Stills-Nash-amp-Young,24.0,420.0,292.0,4.37,43.0,5.63,13.64,22.73,7.0,52
+65,1968,Electric Ladyland,https://www.discogs.com/master/24535-The-Jimi-Hendrix-Experience-Electric-Ladyland,https://www.discogs.com/artist/255672-The-Jimi-Hendrix-Experience,30.0,9666.0,3696.0,4.53,771.0,4.0,27.84,227.27,29.0,54
+66,1992,Rage Against The Machine,https://www.discogs.com/master/7939-Rage-Against-The-Machine-Rage-Against-The-Machine,https://www.discogs.com/artist/12212-Rage-Against-The-Machine,11.0,4473.0,7147.0,4.69,536.0,75.0,198.86,454.53,12.0,30
+67,1978,Some Girls,https://www.discogs.com/master/54219-The-Rolling-Stones-Some-Girls,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,1337.0,278.0,4.1,89.0,7.95,14.64,26.56,22.0,44
+68,1966,Pet Sounds,https://www.discogs.com/master/17217-The-Beach-Boys-Pet-Sounds,https://www.discogs.com/artist/70829-The-Beach-Boys,71.0,2027.0,1929.0,4.51,234.0,10.0,70.0,250.0,6.0,56
+69,1971,Aqualung,https://www.discogs.com/master/38184-Jethro-Tull-Aqualung,https://www.discogs.com/artist/30122-Jethro-Tull,86.0,535.0,298.0,4.22,58.0,6.82,17.05,28.41,18.0,51
+70,1983,Kill 'Em All,https://www.discogs.com/master/6387-Metallica-Kill-Em-All,https://www.discogs.com/artist/18839-Metallica,134.0,1641.0,858.0,4.47,194.0,34.03,74.43,107.95,3.0,39
+71,1976,Songs In The Key Of Life,https://www.discogs.com/master/87440-Stevie-Wonder-Songs-In-The-Key-Of-Life,https://www.discogs.com/artist/18956-Stevie-Wonder,44.0,2928.0,726.0,4.43,280.0,4.51,21.72,40.6,23.0,46
+72,1977,Bat Out Of Hell,https://www.discogs.com/master/23069-Meat-Loaf-Bat-Out-Of-Hell,https://www.discogs.com/artist/254259-Meat-Loaf,38.0,2821.0,171.0,3.93,126.0,5.04,14.39,25.18,4.0,45
+73,1986,Graceland,https://www.discogs.com/master/55658-Paul-Simon-Graceland,https://www.discogs.com/artist/106474-Paul-Simon,31.0,8410.0,952.0,4.27,847.0,4.06,9.78,22.61,181.0,36
+74,1979,In Through The Out Door,https://www.discogs.com/master/4474-Led-Zeppelin-In-Through-The-Out-Door,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,2250.0,300.0,4.09,203.0,7.85,17.28,40.54,21.0,43
+75,1971,Hunky Dory,https://www.discogs.com/master/1718-David-Bowie-Hunky-Dory,https://www.discogs.com/artist/10263-David-Bowie,95.0,3462.0,4632.0,4.49,426.0,20.35,369.31,85.96,2.0,51
+76,1971,Master Of Reality,https://www.discogs.com/master/4844-Black-Sabbath-Master-Of-Reality,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,6128.0,1484.0,4.53,492.0,5.0,16.98,120.0,15.0,51
+77,1979,Off The Wall,https://www.discogs.com/master/435524-Michael-Jackson-Off-The-Wall,https://www.discogs.com/artist/15885-Michael-Jackson,21.0,18273.0,6347.0,4.42,1480.0,2.0,15.0,250.0,102.0,43
+78,1970,Atom Heart Mother,https://www.discogs.com/master/12676-Pink-Floyd-Atom-Heart-Mother,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,589.0,499.0,4.2,54.0,4.51,20.86,31.4,13.0,52
+79,1973,Goodbye Yellow Brick Road,https://www.discogs.com/master/30577-Elton-John-Goodbye-Yellow-Brick-Road,https://www.discogs.com/artist/57103-Elton-John,149.0,10911.0,1149.0,4.16,615.0,5.0,13.85,119.99,14.0,49
+80,1970,Abraxas,https://www.discogs.com/master/31598-Santana-Abraxas,https://www.discogs.com/artist/30724-Santana,71.0,5781.0,474.0,4.31,426.0,3.3,8.11,25.0,102.0,52
+81,1975,Born To Run,https://www.discogs.com/master/26725-Bruce-Springsteen-Born-To-Run,https://www.discogs.com/artist/219986-Bruce-Springsteen,89.0,1743.0,488.0,4.22,103.0,11.17,18.58,27.22,27.0,47
+82,1982,Love Over Gold,https://www.discogs.com/master/23798-Dire-Straits-Love-Over-Gold,https://www.discogs.com/artist/103687-Dire-Straits,60.0,1533.0,213.0,4.17,144.0,3.98,9.03,14.77,24.0,40
+83,1972,Machine Head,https://www.discogs.com/master/1843-Deep-Purple-Machine-Head,https://www.discogs.com/artist/170355-Deep-Purple,86.0,7877.0,825.0,4.27,540.0,0.99,11.61,39.99,27.0,50
+84,1971,Tapestry,https://www.discogs.com/master/104166-Carole-King-Tapestry,https://www.discogs.com/artist/266352-Carole-King,32.0,787.0,344.0,4.25,57.0,4.55,13.51,27.17,5.0,51
+85,2013,Random Access Memories,https://www.discogs.com/master/556257-Daft-Punk-Random-Access-Memories,https://www.discogs.com/artist/1289-Daft-Punk,9.0,51520.0,18343.0,4.55,6208.0,35.22,59.99,199.99,141.0,9
+86,1972,Exile On Main St,https://www.discogs.com/master/30303-Rolling-Stones-Exile-On-Main-St,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,4826.0,3200.0,4.42,480.0,27.01,68.78,272.73,55.0,50
+87,1963,Please Please Me,https://www.discogs.com/master/45362-The-Beatles-Please-Please-Me,https://www.discogs.com/artist/82730-The-Beatles,157.0,1798.0,772.0,4.35,202.0,13.57,43.44,135.73,79.0,59
+88,1980,Zenyatta Mondatta,https://www.discogs.com/master/39269-The-Police-Zenyatta-Mondatta,https://www.discogs.com/artist/7987-The-Police,43.0,14152.0,1206.0,3.89,996.0,2.7,6.79,24.98,238.0,42
+89,1977,News Of The World,https://www.discogs.com/master/6414-Queen-News-Of-The-World,https://www.discogs.com/artist/81013-Queen,85.0,3657.0,540.0,4.06,314.0,3.41,19.31,39.2,21.0,45
+90,1993,Enter The Wu-Tang (36 Chambers),https://www.discogs.com/master/25303-Wu-Tang-Clan-Enter-The-Wu-Tang-36-Chambers,https://www.discogs.com/artist/11213-Wu-Tang-Clan,15.0,19838.0,12956.0,4.69,2221.0,12.0,87.25,738.64,52.0,29
+91,1969,Ummagumma,https://www.discogs.com/master/20692-Pink-Floyd-Ummagumma,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,2417.0,481.0,4.13,268.0,13.53,27.07,84.99,30.0,53
+92,1973,Tubular Bells,https://www.discogs.com/master/15016-Mike-Oldfield-Tubular-Bells,https://www.discogs.com/artist/18666-Mike-Oldfield,39.0,1899.0,194.0,3.91,139.0,3.17,7.0,14.97,30.0,49
+93,1983,War,https://www.discogs.com/master/48830-U2-War,https://www.discogs.com/artist/6520-U2,71.0,6875.0,605.0,4.2,526.0,5.0,14.5,33.99,39.0,39
+94,1979,Reggatta De Blanc,https://www.discogs.com/master/39199-The-Police-Reggatta-De-Blanc,https://www.discogs.com/artist/7987-The-Police,43.0,2291.0,576.0,4.44,223.0,10.0,20.36,88.24,65.0,43
+95,1984,Like A Virgin,https://www.discogs.com/master/18021-Madonna-Like-A-Virgin,https://www.discogs.com/artist/8760-Madonna,34.0,5057.0,450.0,3.95,384.0,4.0,8.34,30.0,65.0,38
+96,1989,Bleach,https://www.discogs.com/master/13773-Nirvana-Bleach,https://www.discogs.com/artist/125246-Nirvana,8.0,4992.0,2363.0,4.31,496.0,54.05,101.14,399.0,40.0,33
+97,1978,Van Halen,https://www.discogs.com/master/29426-Van-Halen-Van-Halen,https://www.discogs.com/artist/94066-Van-Halen,37.0,6568.0,681.0,4.34,586.0,4.0,14.95,30.0,4.0,44
+98,1986,Licensed To Ill,https://www.discogs.com/master/20090-Beastie-Boys-Licensed-To-Ill,https://www.discogs.com/artist/10783-Beastie-Boys,19.0,1117.0,410.0,4.23,123.0,1.25,4.0,14.99,14.0,36
+99,1986,So,https://www.discogs.com/master/35759-Peter-Gabriel-So,https://www.discogs.com/artist/11136-Peter-Gabriel,54.0,8112.0,1380.0,4.26,694.0,4.51,13.57,26.7,113.0,36
+100,1970,After The Gold Rush,https://www.discogs.com/master/38433-Neil-Young-After-The-Gold-Rush,https://www.discogs.com/artist/138556-Neil-Young,83.0,7966.0,913.0,4.44,624.0,2.99,12.98,32.5,64.0,52
+101,1974,Crime Of The Century,https://www.discogs.com/master/25374-Supertramp-Crime-Of-The-Century,https://www.discogs.com/artist/251517-Supertramp,45.0,804.0,204.0,4.34,65.0,3.33,13.53,32.71,14.0,48
+102,1984,The Unforgettable Fire,https://www.discogs.com/master/62831-U2-The-Unforgettable-Fire,https://www.discogs.com/artist/6520-U2,71.0,9436.0,784.0,4.06,709.0,4.07,10.51,20.55,153.0,38
+103,1971,Imagine,https://www.discogs.com/master/72879-John-Lennon-Imagine,https://www.discogs.com/artist/46481-John-Lennon,71.0,8693.0,947.0,4.28,610.0,4.99,12.75,75.0,90.0,51
+104,1965,Help!,https://www.discogs.com/master/45895-The-Beatles-Help,https://www.discogs.com/artist/82730-The-Beatles,157.0,3369.0,1100.0,4.4,293.0,19.95,52.25,250.0,18.0,57
+105,1977,Aja,https://www.discogs.com/master/16921-Steely-Dan-Aja,https://www.discogs.com/artist/160906-Steely-Dan,23.0,8191.0,690.0,4.49,704.0,4.0,14.0,64.95,50.0,45
+106,1980,Making Movies,https://www.discogs.com/master/23815-Dire-Straits-Making-Movies,https://www.discogs.com/artist/103687-Dire-Straits,60.0,11302.0,1229.0,4.08,904.0,4.06,8.82,33.94,153.0,42
+107,1976,Their Greatest Hits 1971-1975,https://www.discogs.com/master/59509-Eagles-Their-Greatest-Hits-1971-1975,https://www.discogs.com/artist/255680-Eagles,24.0,2553.0,81.0,4.15,169.0,1.0,6.96,19.58,22.0,46
+108,1972,Made In Japan,https://www.discogs.com/master/2133-Deep-Purple-Made-In-Japan,https://www.discogs.com/artist/170355-Deep-Purple,86.0,4577.0,348.0,4.3,441.0,3.01,15.29,26.02,49.0,50
+109,2007,In Rainbows,https://www.discogs.com/master/21520-Radiohead-In-Rainbows,https://www.discogs.com/artist/3840-Radiohead,38.0,,,,,,,,,15
+110,1973,Aladdin Sane,https://www.discogs.com/master/2162-David-Bowie-Aladdin-Sane,https://www.discogs.com/artist/10263-David-Bowie,95.0,10371.0,3942.0,4.34,985.0,9.5,43.18,310.0,124.0,49
+111,1978,Grease (The Original Soundtrack From The Motion Picture),https://www.discogs.com/master/97901-Various-Grease-The-Original-Soundtrack-From-The-Motion-Picture,https://www.discogs.com/artist/Various?anv=,,2450.0,143.0,3.52,143.0,1.01,4.5,9.5,21.0,44
+112,1978,Parallel Lines,https://www.discogs.com/master/3337-Blondie-Parallel-Lines,https://www.discogs.com/artist/16655-Blondie,34.0,3428.0,442.0,3.95,267.0,2.35,10.18,25.0,26.0,44
+113,1969,Tommy,https://www.discogs.com/master/68455-The-Who-Tommy,https://www.discogs.com/artist/196766-The-Who,80.0,183.0,318.0,4.26,19.0,34.09,34.09,34.09,2.0,53
+114,1989,Disintegration,https://www.discogs.com/master/31755-The-Cure-Disintegration,https://www.discogs.com/artist/28972-The-Cure,40.0,1549.0,491.0,4.66,253.0,2.35,5.0,11.34,13.0,33
+115,1978,Outlandos D'Amour,https://www.discogs.com/master/39188-The-Police-Outlandos-DAmour,https://www.discogs.com/artist/7987-The-Police,43.0,6942.0,537.0,4.06,634.0,2.27,9.65,17.05,83.0,44
+116,1984,1984,https://www.discogs.com/master/29419-Van-Halen-1984,https://www.discogs.com/artist/94066-Van-Halen,37.0,1905.0,361.0,4.39,139.0,5.7,16.82,49.99,5.0,38
+117,1983,Eliminator,https://www.discogs.com/master/48605-ZZ-Top-Eliminator,https://www.discogs.com/artist/113655-ZZ-Top,36.0,1638.0,229.0,3.9,160.0,7.99,16.61,54.99,6.0,39
+118,1981,Ghost In The Machine,https://www.discogs.com/master/39316-The-Police-Ghost-In-The-Machine,https://www.discogs.com/artist/7987-The-Police,43.0,2739.0,269.0,3.74,245.0,5.64,8.18,37.16,39.0,41
+119,1972,Transformer,https://www.discogs.com/master/44278-Lou-Reed-Transformer,https://www.discogs.com/artist/11879-Lou-Reed,58.0,4050.0,1082.0,4.4,418.0,9.5,29.14,67.87,39.0,50
+120,1970,Deep Purple In Rock,https://www.discogs.com/master/1439-Deep-Purple-Deep-Purple-In-Rock,https://www.discogs.com/artist/170355-Deep-Purple,86.0,3125.0,320.0,4.27,314.0,4.55,15.91,45.34,30.0,52
+121,1967,Axis: Bold As Love,https://www.discogs.com/master/24511-The-Jimi-Hendrix-Experience-Axis-Bold-As-Love,https://www.discogs.com/artist/255672-The-Jimi-Hendrix-Experience,30.0,2316.0,3413.0,4.4,260.0,51.13,135.13,567.57,49.0,55
+122,1975,Fleetwood Mac,https://www.discogs.com/master/38776-Fleetwood-Mac-Fleetwood-Mac,https://www.discogs.com/artist/47333-Fleetwood-Mac,120.0,9497.0,1456.0,4.19,638.0,1.36,15.0,36.57,11.0,47
+123,1986,The Queen Is Dead,https://www.discogs.com/master/20137-The-Smiths-The-Queen-Is-Dead,https://www.discogs.com/artist/83080-The-Smiths,9.0,1672.0,867.0,4.58,161.0,14.77,34.09,60.81,16.0,36
+124,1985,Songs From The Big Chair,https://www.discogs.com/master/43063-Tears-For-Fears-Songs-From-The-Big-Chair,https://www.discogs.com/artist/19814-Tears-For-Fears,30.0,4985.0,560.0,3.96,272.0,8.52,11.36,45.45,9.0,37
+125,1980,Double Fantasy,https://www.discogs.com/master/73013-John-Lennon-Yoko-Ono-Double-Fantasy,https://www.discogs.com/artist/451329-John-Lennon-amp-Yoko-Ono,12.0,3099.0,114.0,3.58,212.0,0.79,4.77,9.82,40.0,42
+126,1980,Closer,https://www.discogs.com/master/4734-Joy-Division-Closer,https://www.discogs.com/artist/3898-Joy-Division,8.0,9234.0,5156.0,4.6,1255.0,30.0,67.87,227.27,30.0,42
+127,1973,Band On The Run,https://www.discogs.com/master/48878-Paul-McCartney-And-Wings-Band-On-The-Run,https://www.discogs.com/artist/145074-Wings-2,10.0,16113.0,1177.0,4.29,1091.0,5.98,14.04,62.39,104.0,49
+128,1986,True Blue,https://www.discogs.com/master/67836-Madonna-True-Blue,https://www.discogs.com/artist/8760-Madonna,34.0,529.0,372.0,4.1,49.0,28.78,59.32,133.09,6.0,36
+129,1979,Communiqué,https://www.discogs.com/master/23731-Dire-Straits-Communiqu%C3%A9,https://www.discogs.com/artist/103687-Dire-Straits,60.0,843.0,190.0,4.06,95.0,5.11,10.17,20.34,14.0,43
+130,1964,A Hard Day's Night,https://www.discogs.com/master/24003-The-Beatles-A-Hard-Days-Night,https://www.discogs.com/artist/82730-The-Beatles,157.0,3537.0,954.0,4.36,402.0,13.57,35.29,128.96,101.0,58
+131,1968,Beggars Banquet,https://www.discogs.com/master/30220-Rolling-Stones-Beggars-Banquet,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,228.0,542.0,4.58,38.0,15.0,72.97,202.7,3.0,54
+132,1990,Violator,https://www.discogs.com/master/18080-Depeche-Mode-Violator,https://www.discogs.com/artist/2725-Depeche-Mode,39.0,2635.0,452.0,4.6,431.0,0.5,3.5,25.0,58.0,32
+133,1980,The River,https://www.discogs.com/master/27194-Bruce-Springsteen-The-River,https://www.discogs.com/artist/219986-Bruce-Springsteen,89.0,10444.0,474.0,4.1,877.0,5.64,13.82,31.02,148.0,42
+134,1981,Face Value,https://www.discogs.com/master/553-Phil-Collins-Face-Value,https://www.discogs.com/artist/101028-Phil-Collins,65.0,2264.0,327.0,3.84,203.0,4.98,10.23,22.73,28.0,41
+135,1972,Black Sabbath Vol 4,https://www.discogs.com/master/4894-Black-Sabbath-Black-Sabbath-Vol-4,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,6329.0,1244.0,4.44,547.0,5.0,28.79,125.0,16.0,50
+136,1985,No Jacket Required,https://www.discogs.com/master/98041-Phil-Collins-No-Jacket-Required,https://www.discogs.com/artist/101028-Phil-Collins,65.0,2008.0,116.0,3.66,112.0,4.33,7.93,10.82,30.0,37
+137,1977,The Stranger,https://www.discogs.com/master/57029-Billy-Joel-The-Stranger,https://www.discogs.com/artist/137418-Billy-Joel,51.0,516.0,222.0,3.52,25.0,7.17,10.14,12.15,1.0,45
+138,1959,Time Out,https://www.discogs.com/master/34081-The-Dave-Brubeck-Quartet-Time-Out,https://www.discogs.com/artist/251689-The-Dave-Brubeck-Quartet,106.0,389.0,529.0,4.69,61.0,7.89,21.42,45.1,11.0,63
+139,1971,What's Going On,https://www.discogs.com/master/66631-Marvin-Gaye-Whats-Going-On,https://www.discogs.com/artist/18984-Marvin-Gaye,39.0,1641.0,1707.0,4.7,198.0,17.99,34.0,100.0,9.0,51
+140,1984,Powerslave,https://www.discogs.com/master/18917-Iron-Maiden-Powerslave,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,129.0,278.0,4.7,10.0,23.68,36.65,40.45,,38
+141,1965,Highway 61 Revisited,https://www.discogs.com/master/3986-Bob-Dylan-Highway-61-Revisited,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,1206.0,994.0,4.44,124.0,5.63,39.47,99.1,9.0,57
+142,1976,Chronicle - The 20 Greatest Hits,https://www.discogs.com/master/55427-Creedence-Clearwater-Revival-Featuring-John-Fogerty-Chronicle-The-20-Greatest-Hits,https://www.discogs.com/artist/252102-Creedence-Clearwater-Revival,18.0,4857.0,359.0,4.29,364.0,4.55,14.66,56.82,63.0,46
+143,1983,Piece Of Mind,https://www.discogs.com/master/18823-Iron-Maiden-Piece-Of-Mind,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,5652.0,541.0,4.42,499.0,16.93,22.73,36.35,38.0,39
+144,1981,Tattoo You,https://www.discogs.com/master/38549-Rolling-Stones-Tattoo-You,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,16682.0,1328.0,4.05,1206.0,3.0,10.97,24.95,169.0,41
+145,1980,Remain In Light,https://www.discogs.com/master/25688-Talking-Heads-Remain-In-Light,https://www.discogs.com/artist/22854-Talking-Heads,23.0,12020.0,5714.0,4.58,1089.0,4.95,35.0,68.0,38.0,42
+146,1976,Desire,https://www.discogs.com/master/3911-Bob-Dylan-Desire,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,8110.0,349.0,4.12,625.0,3.98,10.21,20.45,127.0,46
+147,1965,A Love Supreme,https://www.discogs.com/master/32287-John-Coltrane-A-Love-Supreme,https://www.discogs.com/artist/97545-John-Coltrane,142.0,1086.0,1923.0,4.72,240.0,46.19,281.95,518.68,,57
+148,1994,Dummy,https://www.discogs.com/master/5542-Portishead-Dummy,https://www.discogs.com/artist/2774-Portishead,8.0,10959.0,6402.0,4.69,1464.0,14.0,67.77,169.68,16.0,28
+149,1977,Out Of The Blue,https://www.discogs.com/master/21680-Electric-Light-Orchestra-Out-Of-The-Blue,https://www.discogs.com/artist/112154-Electric-Light-Orchestra,35.0,10025.0,1068.0,4.1,748.0,3.99,14.29,52.95,74.0,45
+150,2000,Kid A,https://www.discogs.com/master/21501-Radiohead-Kid-A,https://www.discogs.com/artist/3840-Radiohead,38.0,4406.0,628.0,4.55,626.0,2.0,3.99,9.99,36.0,22
+151,1984,Diamond Life,https://www.discogs.com/master/43936-Sade-Diamond-Life,https://www.discogs.com/artist/19731-Sade,13.0,386.0,435.0,4.35,84.0,0.68,3.77,13.51,,38
+152,1980,Iron Maiden,https://www.discogs.com/master/14394-Iron-Maiden-Iron-Maiden,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,226.0,357.0,4.44,18.0,13.57,47.04,129.99,,42
+153,1981,Killers,https://www.discogs.com/master/14360-Iron-Maiden-Killers,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,200.0,313.0,4.39,18.0,18.03,46.88,225.56,1.0,41
+154,1980,The Game,https://www.discogs.com/master/13248-Queen-The-Game,https://www.discogs.com/artist/81013-Queen,85.0,1829.0,377.0,4.11,128.0,4.55,17.05,28.41,18.0,42
+155,1983,The Final Cut,https://www.discogs.com/master/19698-Pink-Floyd-The-Final-Cut,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,179.0,161.0,3.64,25.0,5.49,7.89,15.91,6.0,39
+156,1976,Presence,https://www.discogs.com/master/4450-Led-Zeppelin-Presence,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,1440.0,496.0,,190.0,8.11,26.62,81.07,28.0,46
+157,1973,Sabbath Bloody Sabbath,https://www.discogs.com/master/1109-Black-Sabbath-Sabbath-Bloody-Sabbath,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,649.0,599.0,4.55,100.0,13.5,27.44,51.14,23.0,49
+158,1970,Morrison Hotel,https://www.discogs.com/master/45415-The-Doors-Morrison-Hotel,https://www.discogs.com/artist/56798-The-Doors,60.0,2651.0,825.0,4.46,308.0,4.99,24.55,284.09,31.0,52
+159,1987,A Momentary Lapse Of Reason,https://www.discogs.com/master/10303-Pink-Floyd-A-Momentary-Lapse-Of-Reason,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,1348.0,206.0,4.09,179.0,3.98,5.08,10.86,27.0,35
+160,1970,Tea For The Tillerman,https://www.discogs.com/master/37103-Cat-Stevens-Tea-For-The-Tillerman,https://www.discogs.com/artist/37606-Cat-Stevens,20.0,4538.0,1457.0,4.16,355.0,19.74,54.29,95.86,15.0,52
+161,1977,"""Heroes""",https://www.discogs.com/master/22294-David-Bowie-Heroes,https://www.discogs.com/artist/10263-David-Bowie,95.0,1606.0,771.0,4.32,179.0,15.91,19.39,25.57,19.0,45
+162,1975,Blood On The Tracks,https://www.discogs.com/master/3878-Bob-Dylan-Blood-On-The-Tracks,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,4884.0,749.0,4.39,423.0,10.14,16.31,33.72,44.0,47
+163,1971,Pearl,https://www.discogs.com/master/72235-Janis-Joplin-Pearl,https://www.discogs.com/artist/120232-Janis-Joplin,24.0,3602.0,800.0,4.2,286.0,9.99,20.0,54.3,41.0,51
+164,1983,Blue Monday,https://www.discogs.com/master/3297-New-Order-Blue-Monday,https://www.discogs.com/artist/3909-New-Order,23.0,12619.0,7010.0,4.67,1833.0,10.0,30.41,126.51,73.0,39
+165,1967,Strange Days,https://www.discogs.com/master/45326-The-Doors-Strange-Days,https://www.discogs.com/artist/56798-The-Doors,60.0,9574.0,3035.0,4.37,860.0,4.0,18.98,90.0,30.0,55
+166,1983,"Live ""Under A Blood Red Sky""",https://www.discogs.com/master/54302-U2-Live-Under-A-Blood-Red-Sky,https://www.discogs.com/artist/6520-U2,71.0,3927.0,181.0,4.07,300.0,2.0,9.29,15.95,74.0,39
+167,2016,★ (Blackstar),https://www.discogs.com/master/939598-David-Bowie--Blackstar,https://www.discogs.com/artist/10263-David-Bowie,95.0,16685.0,2659.0,4.63,1858.0,16.99,37.49,64.77,74.0,6
+168,1981,For Those About To Rock (We Salute You),https://www.discogs.com/master/8636-ACDC-For-Those-About-To-Rock-We-Salute-You,https://www.discogs.com/artist/84752-ACDC,40.0,2673.0,236.0,4.03,296.0,10.23,12.5,68.18,28.0,41
+169,2012,"Good Kid, M.A.A.d City",https://www.discogs.com/master/484590-Kendrick-Lamar-Good-Kid-MAAd-City,https://www.discogs.com/artist/1778977-Kendrick-Lamar,6.0,77.0,481.0,4.19,21.0,,,,,10
+170,1970,Cosmo's Factory,https://www.discogs.com/master/55281-Creedence-Clearwater-Revival-Cosmos-Factory,https://www.discogs.com/artist/252102-Creedence-Clearwater-Revival,18.0,1385.0,357.0,4.07,123.0,2.82,11.28,19.17,22.0,52
+171,1971,Fragile,https://www.discogs.com/master/34934-Yes-Fragile,https://www.discogs.com/artist/50263-Yes,73.0,3812.0,1700.0,4.2,372.0,25.57,62.35,340.91,32.0,51
+172,1974,Greatest Hits,https://www.discogs.com/master/85568-Elton-John-Greatest-Hits,https://www.discogs.com/artist/57103-Elton-John,149.0,1986.0,158.0,3.84,135.0,1.34,5.96,10.81,45.0,48
+173,1967,The Piper At The Gates Of Dawn,https://www.discogs.com/master/19546-Pink-Floyd-The-Piper-At-The-Gates-Of-Dawn,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,360.0,981.0,4.31,54.0,23.5,70.5,180.0,,55
+174,1994,Dookie,https://www.discogs.com/master/33170-Green-Day-Dookie,https://www.discogs.com/artist/251593-Green-Day,35.0,4599.0,442.0,4.16,473.0,0.5,2.0,24.99,87.0,28
+175,1977,Low,https://www.discogs.com/master/22382-David-Bowie-Low,https://www.discogs.com/artist/10263-David-Bowie,95.0,7132.0,1913.0,4.52,648.0,20.0,34.54,65.0,52.0,45
+176,1981,Business As Usual,https://www.discogs.com/master/82009-Men-At-Work-Business-As-Usual,https://www.discogs.com/artist/114210-Men-At-Work,12.0,7712.0,337.0,3.76,599.0,2.26,6.17,18.68,149.0,41
+177,1974,Diamond Dogs,https://www.discogs.com/master/20141-Bowie-Diamond-Dogs,https://www.discogs.com/artist/10263-David-Bowie,95.0,4237.0,1296.0,4.29,449.0,5.43,23.01,115.37,44.0,48
+178,1982,Combat Rock,https://www.discogs.com/master/14918-The-Clash-Combat-Rock,https://www.discogs.com/artist/29890-The-Clash,19.0,4701.0,633.0,4.22,258.0,4.99,17.0,48.0,6.0,40
+179,1976,Frampton Comes Alive!,https://www.discogs.com/master/101332-Peter-Frampton-Frampton-Comes-Alive,https://www.discogs.com/artist/228859-Peter-Frampton,37.0,20.0,14.0,,0.0,,,,,46
+180,1978,The Cars,https://www.discogs.com/master/69666-The-Cars-The-Cars,https://www.discogs.com/artist/143225-The-Cars,33.0,24592.0,3397.0,4.26,1723.0,6.0,,,51.0,44
+181,1986,Somewhere In Time,https://www.discogs.com/master/19132-Iron-Maiden-Somewhere-In-Time,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,7603.0,811.0,4.43,586.0,6.0,29.95,150.0,42.0,36
+182,1988,Tracy Chapman,https://www.discogs.com/master/105802-Tracy-Chapman-Tracy-Chapman,https://www.discogs.com/artist/161091-Tracy-Chapman,11.0,12390.0,3059.0,4.31,1284.0,17.05,31.82,78.41,75.0,34
+183,1973,Goat's Head Soup,https://www.discogs.com/master/38643-The-Rolling-Stones-Goats-Head-Soup,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,5862.0,586.0,3.94,470.0,5.34,13.5,49.98,36.0,49
+184,1966,Blonde On Blonde,https://www.discogs.com/master/3773-Bob-Dylan-Blonde-On-Blonde,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,4695.0,2099.0,4.56,369.0,1.99,42.5,511.36,14.0,56
+185,1977,Slowhand,https://www.discogs.com/master/433056-Eric-Clapton-Slowhand,https://www.discogs.com/artist/17827-Eric-Clapton,103.0,497.0,268.0,3.88,32.0,5.41,13.51,46.89,2.0,45
+186,2001,Discovery,https://www.discogs.com/master/26647-Daft-Punk-Discovery,https://www.discogs.com/artist/1289-Daft-Punk,9.0,20639.0,13459.0,4.59,2801.0,18.0,149.32,371.62,45.0,21
+187,1994,Illmatic,https://www.discogs.com/master/20148-Nas-Illmatic,https://www.discogs.com/artist/50997-Nas,22.0,2083.0,904.0,4.71,446.0,4.44,8.82,24.78,13.0,28
+188,1978,Die Mensch·Maschine,https://www.discogs.com/master/4010-Kraftwerk-Die-MenschMaschine,https://www.discogs.com/artist/4654-Kraftwerk,19.0,5004.0,1366.0,4.6,491.0,5.39,27.03,80.76,79.0,44
+189,1988,Rattle And Hum,https://www.discogs.com/master/62619-U2-Rattle-And-Hum,https://www.discogs.com/artist/6520-U2,71.0,1059.0,85.0,3.93,124.0,1.09,2.2,6.77,56.0,34
+190,1968,In-A-Gadda-Da-Vida,https://www.discogs.com/master/49058-Iron-Butterfly-In-A-Gadda-Da-Vida,https://www.discogs.com/artist/48412-Iron-Butterfly,13.0,363.0,140.0,4.26,39.0,1.14,9.09,28.41,17.0,54
+191,1977,The Clash,https://www.discogs.com/master/24371-The-Clash-The-Clash,https://www.discogs.com/artist/29890-The-Clash,19.0,471.0,593.0,4.39,38.0,23.56,36.36,50.28,3.0,45
+192,1976,Dirty Deeds Done Dirt Cheap,https://www.discogs.com/master/8412-ACDC-Dirty-Deeds-Done-Dirt-Cheap,https://www.discogs.com/artist/84752-ACDC,40.0,4964.0,1388.0,4.21,445.0,13.51,25.78,129.7,20.0,46
+193,1986,Slippery When Wet,https://www.discogs.com/master/66798-Bon-Jovi-Slippery-When-Wet,https://www.discogs.com/artist/124541-Bon-Jovi,40.0,4346.0,452.0,4.11,325.0,3.99,12.16,21.62,49.0,36
+194,1982,1999,https://www.discogs.com/master/55667-Prince-1999,https://www.discogs.com/artist/28795-Prince,52.0,8512.0,2044.0,4.32,704.0,3.99,18.0,71.0,46.0,40
+195,1971,Hot Rocks 1964-1971,https://www.discogs.com/master/52825-The-Rolling-Stones-Hot-Rocks-1964-1971,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,5427.0,270.0,4.46,310.0,2.99,10.0,73.86,45.0,51
+196,1981,Moving Pictures,https://www.discogs.com/master/7532-Rush-Moving-Pictures,https://www.discogs.com/artist/61800-Rush,64.0,1242.0,621.0,4.52,142.0,8.46,22.56,40.72,,41
+197,1977,Let There Be Rock,https://www.discogs.com/master/8572-ACDC-Let-There-Be-Rock,https://www.discogs.com/artist/84752-ACDC,40.0,5800.0,676.0,4.2,504.0,2.99,22.0,89.0,24.0,45
+198,1978,Jazz,https://www.discogs.com/master/7103-Queen-Jazz,https://www.discogs.com/artist/81013-Queen,85.0,3130.0,483.0,4.1,247.0,2.84,16.76,26.02,43.0,44
+199,1970,All Things Must Pass,https://www.discogs.com/master/56036-George-Harrison-All-Things-Must-Pass,https://www.discogs.com/artist/243955-George-Harrison,33.0,7905.0,3863.0,4.43,735.0,20.0,94.58,227.27,41.0,52
+200,1968,Waiting For The Sun,https://www.discogs.com/master/45365-The-Doors-Waiting-For-The-Sun,https://www.discogs.com/artist/56798-The-Doors,60.0,12233.0,2612.0,4.25,918.0,2.0,10.0,99.99,59.0,54
+201,1963,With The Beatles,https://www.discogs.com/master/45729-The-Beatles-With-The-Beatles,https://www.discogs.com/artist/82730-The-Beatles,157.0,2002.0,1008.0,4.28,250.0,27.03,129.54,300.0,15.0,59
+202,1976,The Soundtrack From The Film The Song Remains The Same,https://www.discogs.com/master/5107-Led-Zeppelin-The-Soundtrack-From-The-Film-The-Song-Remains-The-Same,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,5977.0,853.0,4.16,466.0,10.0,23.06,48.0,110.0,46
+203,1978,Darkness On The Edge Of Town,https://www.discogs.com/master/26738-Bruce-Springsteen-Darkness-On-The-Edge-Of-Town,https://www.discogs.com/artist/219986-Bruce-Springsteen,89.0,3508.0,248.0,4.29,276.0,3.41,10.23,26.73,60.0,44
+204,1979,Tusk,https://www.discogs.com/master/38741-Fleetwood-Mac-Tusk,https://www.discogs.com/artist/47333-Fleetwood-Mac,120.0,8170.0,490.0,3.96,689.0,7.39,13.59,34.92,141.0,43
+205,1991,Out Of Time,https://www.discogs.com/master/44148-REM-Out-Of-Time,https://www.discogs.com/artist/74500-REM,46.0,844.0,314.0,4.32,98.0,5.37,17.9,65.0,21.0,31
+206,2005,Demon Days,https://www.discogs.com/master/58002-Gorillaz-Demon-Days,https://www.discogs.com/artist/6378-Gorillaz,11.0,689.0,596.0,4.48,79.0,4.07,7.99,11.28,25.0,17
+207,1970,The Man Who Sold The World,https://www.discogs.com/master/1929-David-Bowie-The-Man-Who-Sold-The-World,https://www.discogs.com/artist/10263-David-Bowie,95.0,4760.0,2738.0,4.27,492.0,25.49,102.16,289.95,31.0,52
+208,1980,Scary Monsters,https://www.discogs.com/master/30425-David-Bowie-Scary-Monsters,https://www.discogs.com/artist/10263-David-Bowie,95.0,216.0,296.0,4.07,45.0,2.71,5.43,8.14,,42
+209,1976,Oxygène,https://www.discogs.com/master/43980-Jean-Michel-Jarre-Oxyg%C3%A8ne,https://www.discogs.com/artist/209415-Jean-Michel-Jarre,38.0,1113.0,338.0,4.32,127.0,1.0,6.99,17.63,34.0,46
+210,1967,Disraeli Gears,https://www.discogs.com/master/35685-Cream-Disraeli-Gears,https://www.discogs.com/artist/229621-Cream-2,13.0,5023.0,904.0,4.37,363.0,2.0,10.97,75.0,45.0,55
+211,1969,Johnny Cash At San Quentin,https://www.discogs.com/master/27819-Johnny-Cash-Johnny-Cash-At-San-Quentin,https://www.discogs.com/artist/135946-Johnny-Cash,133.0,4295.0,244.0,4.16,266.0,4.51,8.46,13.57,43.0,53
+212,1988,Seventh Son Of A Seventh Son,https://www.discogs.com/master/19182-Iron-Maiden-Seventh-Son-Of-A-Seventh-Son,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,5278.0,682.0,4.36,520.0,9.01,30.45,135.34,33.0,34
+213,1976,A Day At The Races,https://www.discogs.com/master/6108-Queen-A-Day-At-The-Races,https://www.discogs.com/artist/81013-Queen,85.0,5250.0,633.0,4.15,333.0,9.0,18.99,107.95,70.0,46
+214,1991,Use Your Illusion I,https://www.discogs.com/master/9536-Guns-N-Roses-Use-Your-Illusion-I,https://www.discogs.com/artist/124535-Guns-N-Roses,17.0,5770.0,1739.0,4.24,594.0,16.92,46.49,95.3,44.0,31
+215,1983,Speaking In Tongues,https://www.discogs.com/master/39336-Talking-Heads-Speaking-In-Tongues,https://www.discogs.com/artist/22854-Talking-Heads,23.0,26.0,425.0,4.67,3.0,,,,,39
+216,1964,Beatles For Sale,https://www.discogs.com/master/45799-The-Beatles-Beatles-For-Sale,https://www.discogs.com/artist/82730-The-Beatles,157.0,8364.0,2494.0,4.09,799.0,9.49,23.75,101.81,241.0,58
+217,1969,David Bowie,https://www.discogs.com/master/32337-David-Bowie-David-Bowie,https://www.discogs.com/artist/10263-David-Bowie,95.0,130.0,782.0,4.29,17.0,170.45,340.34,738.64,2.0,53
+218,1978,52nd Street,https://www.discogs.com/master/57048-Billy-Joel-52nd-Street,https://www.discogs.com/artist/137418-Billy-Joel,51.0,2279.0,142.0,3.62,159.0,1.12,6.79,13.56,74.0,44
+219,1970,Bitches Brew,https://www.discogs.com/master/8260-Miles-Davis-Bitches-Brew,https://www.discogs.com/artist/23755-Miles-Davis,155.0,6452.0,6925.0,4.63,750.0,20.0,59.5,258.0,26.0,52
+220,1976,Station To Station,https://www.discogs.com/master/22420-David-Bowie-Station-To-Station,https://www.discogs.com/artist/10263-David-Bowie,95.0,758.0,647.0,4.52,124.0,10.86,40.71,81.45,14.0,46
+221,1986,Invisible Touch,https://www.discogs.com/master/29002-Genesis-Invisible-Touch,https://www.discogs.com/artist/124506-Genesis,85.0,2351.0,409.0,3.79,174.0,2.71,6.11,33.92,44.0,36
+222,1973,Innervisions,https://www.discogs.com/master/86466-Stevie-Wonder-Innervisions,https://www.discogs.com/artist/18956-Stevie-Wonder,44.0,982.0,563.0,4.4,144.0,7.33,15.51,22.56,14.0,49
+223,1991,Achtung Baby,https://www.discogs.com/master/20774-U2-Achtung-Baby,https://www.discogs.com/artist/6520-U2,71.0,279.0,880.0,4.42,55.0,50.0,113.64,200.0,2.0,31
+224,1989,Doolittle,https://www.discogs.com/master/16764-Pixies-Doolittle,https://www.discogs.com/artist/231577-Pixies,21.0,146.0,403.0,4.57,14.0,6.13,19.0,22.56,2.0,33
+225,1982,Toto IV,https://www.discogs.com/master/30712-Toto-Toto-IV,https://www.discogs.com/artist/68693-Toto,38.0,9898.0,957.0,4.01,771.0,5.63,11.36,26.14,79.0,40
+226,1976,High Voltage,https://www.discogs.com/master/8437-ACDC-High-Voltage,https://www.discogs.com/artist/84752-ACDC,40.0,5501.0,1121.0,4.28,508.0,6.99,22.48,70.0,22.0,46
+227,1998,Mezzanine,https://www.discogs.com/master/23683-Massive-Attack-Mezzanine,https://www.discogs.com/artist/4480-Massive-Attack,13.0,5739.0,7497.0,4.68,1017.0,75.0,136.25,243.18,35.0,24
+228,1972,Close To The Edge,https://www.discogs.com/master/35006-Yes-Close-To-The-Edge,https://www.discogs.com/artist/50263-Yes,73.0,6172.0,1381.0,4.36,600.0,6.74,20.61,397.73,92.0,50
+229,1976,Destroyer,https://www.discogs.com/master/41722-Kiss-Destroyer,https://www.discogs.com/artist/153073-Kiss,82.0,7440.0,1266.0,4.16,497.0,3.0,20.0,299.99,18.0,46
+230,1969,Santana,https://www.discogs.com/master/37570-Santana-Santana,https://www.discogs.com/artist/30724-Santana,71.0,1507.0,306.0,4.37,143.0,2.53,10.81,25.66,49.0,53
+231,1976,2112,https://www.discogs.com/master/7315-Rush-2112,https://www.discogs.com/artist/61800-Rush,64.0,1632.0,396.0,4.46,156.0,5.68,45.0,75.68,17.0,46
+232,1983,Pyromania,https://www.discogs.com/master/31037-Def-Leppard-Pyromania,https://www.discogs.com/artist/252443-Def-Leppard,37.0,6794.0,562.0,4.1,596.0,1.0,25.5,55.0,34.0,39
+233,1971,Relics,https://www.discogs.com/master/20674-Pink-Floyd-Relics,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,8148.0,918.0,4.16,756.0,5.09,16.29,68.13,154.0,51
+234,1957,Blue Train,https://www.discogs.com/master/32208-John-Coltrane-Blue-Train,https://www.discogs.com/artist/97545-John-Coltrane,142.0,490.0,2148.0,4.75,95.0,100.0,386.82,750.0,,65
+235,1987,Tango In The Night,https://www.discogs.com/master/38735-Fleetwood-Mac-Tango-In-The-Night,https://www.discogs.com/artist/47333-Fleetwood-Mac,120.0,7084.0,1300.0,4.12,421.0,2.42,20.0,71.45,42.0,35
+236,1983,Genesis,https://www.discogs.com/master/28911-Genesis-Genesis,https://www.discogs.com/artist/124506-Genesis,85.0,2698.0,136.0,3.82,255.0,1.14,7.06,11.36,72.0,39
+237,1987,Kick,https://www.discogs.com/master/68453-INXS-Kick,https://www.discogs.com/artist/54650-INXS,33.0,497.0,117.0,4.11,44.0,0.98,2.12,5.99,25.0,35
+238,1970,Live At Leeds,https://www.discogs.com/master/68451-The-Who-Live-At-Leeds,https://www.discogs.com/artist/196766-The-Who,80.0,144.0,151.0,3.93,14.0,23.6,36.49,64.04,4.0,52
+239,1969,"Crosby, Stills & Nash",https://www.discogs.com/master/26121-Crosby-Stills-Nash-Crosby-Stills-Nash,https://www.discogs.com/artist/254201-Crosby-Stills-amp-Nash,18.0,8669.0,975.0,4.26,618.0,2.99,11.14,39.99,53.0,53
+240,1985,Live After Death,https://www.discogs.com/master/18949-Iron-Maiden-Live-After-Death,https://www.discogs.com/artist/251595-Iron-Maiden,38.0,2014.0,243.0,4.36,196.0,23.49,35.25,58.75,15.0,37
+241,1970,Hey Jude (The Beatles Again),https://www.discogs.com/master/46382-The-Beatles-Hey-Jude-The-Beatles-Again,https://www.discogs.com/artist/82730-The-Beatles,157.0,270.0,124.0,4.5,22.0,10.86,21.72,33.94,9.0,52
+242,1985,The Dream Of The Blue Turtles,https://www.discogs.com/master/32708-Sting-The-Dream-Of-The-Blue-Turtles,https://www.discogs.com/artist/13961-Sting,74.0,3228.0,142.0,3.99,300.0,1.7,5.97,12.39,119.0,37
+243,1989,Paul's Boutique,https://www.discogs.com/master/20135-Beastie-Boys-Pauls-Boutique,https://www.discogs.com/artist/10783-Beastie-Boys,19.0,2545.0,463.0,4.54,399.0,2.27,5.68,10.23,10.0,33
+244,1972,Obscured By Clouds,https://www.discogs.com/master/14720-Pink-Floyd-Obscured-By-Clouds,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,2414.0,449.0,4.06,248.0,9.09,15.91,34.08,56.0,50
+245,1964,Getz / Gilberto,https://www.discogs.com/master/85178-Stan-Getz-Joao-Gilberto-Getz-Gilberto,https://www.discogs.com/artist/30486-Stan-Getz,182.0,1.0,109.0,,0.0,,,,,58
+246,1983,Can't Slow Down,https://www.discogs.com/master/45794-Lionel-Richie-Cant-Slow-Down,https://www.discogs.com/artist/69722-Lionel-Richie,18.0,6758.0,219.0,3.68,499.0,1.12,3.52,8.06,410.0,39
+247,1971,Teaser And The Firecat,https://www.discogs.com/master/37157-Cat-Stevens-Teaser-And-The-Firecat,https://www.discogs.com/artist/37606-Cat-Stevens,20.0,4467.0,249.0,4.05,314.0,2.44,6.77,27.07,129.0,51
+248,1968,At Folsom Prison,https://www.discogs.com/master/27795-Johnny-Cash-At-Folsom-Prison,https://www.discogs.com/artist/135946-Johnny-Cash,133.0,2175.0,782.0,4.38,168.0,6.26,15.67,31.29,1.0,54
+249,1981,4,https://www.discogs.com/master/82436-Foreigner-4,https://www.discogs.com/artist/174890-Foreigner,47.0,19069.0,1171.0,3.92,1084.0,1.99,6.0,25.0,184.0,41
+250,1976,ChangesOneBowie,https://www.discogs.com/master/22239-David-Bowie-ChangesOneBowie,https://www.discogs.com/artist/10263-David-Bowie,95.0,651.0,89.0,4.28,69.0,4.53,16.22,22.69,10.0,46
+251,1975,Toys In The Attic,https://www.discogs.com/master/36627-Aerosmith-Toys-In-The-Attic,https://www.discogs.com/artist/48424-Aerosmith,57.0,16912.0,1907.0,,1363.0,1.0,8.0,25.0,56.0,47
+252,1970,Moondance,https://www.discogs.com/master/14520-Van-Morrison-Moondance,https://www.discogs.com/artist/255411-Van-Morrison,67.0,6076.0,3312.0,4.36,393.0,2.99,37.5,199.99,6.0,52
+253,1989,The Stone Roses,https://www.discogs.com/master/12458-The-Stone-Roses-The-Stone-Roses,https://www.discogs.com/artist/7298-The-Stone-Roses,3.0,5.0,325.0,,4.0,,,,,33
+254,1982,Rio,https://www.discogs.com/master/79632-Duran-Duran-Rio,https://www.discogs.com/artist/10262-Duran-Duran,44.0,9393.0,1862.0,4.07,691.0,10.81,22.72,40.53,37.0,40
+255,1973,Selling England By The Pound,https://www.discogs.com/master/29224-Genesis-Selling-England-By-The-Pound,https://www.discogs.com/artist/124506-Genesis,85.0,2588.0,398.0,4.23,249.0,4.99,15.0,30.0,13.0,49
+256,1985,The Head On The Door,https://www.discogs.com/master/22309-The-Cure-The-Head-On-The-Door,https://www.discogs.com/artist/28972-The-Cure,40.0,604.0,222.0,4.32,88.0,3.37,6.12,16.92,4.0,37
+257,1987,"Sign ""O"" The Times",https://www.discogs.com/master/52497-Prince-Sign-O-The-Times,https://www.discogs.com/artist/28795-Prince,52.0,6318.0,2257.0,4.48,621.0,2.83,26.07,89.99,48.0,35
+258,1977,Exodus,https://www.discogs.com/master/65858-Bob-Marley-The-Wailers-Exodus,https://www.discogs.com/artist/21764-Bob-Marley-amp-The-Wailers,64.0,946.0,389.0,4.57,75.0,3.3,18.18,37.49,5.0,45
+259,1982,Avalon,https://www.discogs.com/master/58313-Roxy-Music-Avalon,https://www.discogs.com/artist/56621-Roxy-Music,32.0,2455.0,243.0,,220.0,3.41,6.24,15.94,33.0,40
+260,1963,The Freewheelin' Bob Dylan,https://www.discogs.com/master/4455-Bob-Dylan-The-Freewheelin-Bob-Dylan,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,4426.0,3582.0,4.43,396.0,10.0,42.48,199.99,14.0,59
+261,1980,Blizzard Of Ozz,https://www.discogs.com/master/41155-Ozzy-Osbourne-Blizzard-Of-Ozz,https://www.discogs.com/artist/59770-Ozzy-Osbourne,36.0,3526.0,1690.0,4.36,323.0,16.92,32.7,80.0,23.0,42
+262,1966,Aftermath,https://www.discogs.com/master/30194-The-Rolling-Stones-Aftermath,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,254.0,437.0,4.19,31.0,9.46,25.57,47.58,4.0,56
+263,1973,Quadrophenia,https://www.discogs.com/master/68475-The-Who-Quadrophenia,https://www.discogs.com/artist/196766-The-Who,80.0,6256.0,653.0,4.37,463.0,2.99,13.05,45.0,69.0,49
+264,1987,Hysteria,https://www.discogs.com/master/31048-Def-Leppard-Hysteria,https://www.discogs.com/artist/252443-Def-Leppard,37.0,5654.0,1402.0,4.24,485.0,11.0,40.0,128.69,24.0,35
+265,1976,A New World Record,https://www.discogs.com/master/17470-Electric-Light-Orchestra-A-New-World-Record,https://www.discogs.com/artist/112154-Electric-Light-Orchestra,35.0,8295.0,387.0,4.08,629.0,1.0,6.89,19.95,92.0,46
+266,1976,Ramones,https://www.discogs.com/master/39341-Ramones-Ramones,https://www.discogs.com/artist/135478-Ramones,31.0,4296.0,5282.0,4.6,486.0,47.3,140.0,511.36,15.0,46
+267,1970,Layla And Other Assorted Love Songs,https://www.discogs.com/master/76678-Derek-And-The-Dominos-Layla-And-Other-Assorted-Love-Songs,https://www.discogs.com/artist/110252-Derek-The-Dominos,4.0,639.0,269.0,4.14,74.0,6.28,23.56,35.0,4.0,52
+268,1983,Madonna,https://www.discogs.com/master/5319-Madonna-Madonna,https://www.discogs.com/artist/8760-Madonna,34.0,2043.0,459.0,4.22,223.0,2.94,8.0,20.0,22.0,39
+269,1972,Thick As A Brick,https://www.discogs.com/master/38308-Jethro-Tull-Thick-As-A-Brick,https://www.discogs.com/artist/30122-Jethro-Tull,86.0,7941.0,464.0,4.15,600.0,1.0,7.25,23.0,113.0,50
+270,1974,Autobahn,https://www.discogs.com/master/2994-Kraftwerk-Autobahn,https://www.discogs.com/artist/4654-Kraftwerk,19.0,5959.0,3014.0,4.41,790.0,17.05,70.45,126.02,74.0,48
+271,1979,The Long Run,https://www.discogs.com/master/59516-Eagles-The-Long-Run,https://www.discogs.com/artist/255680-Eagles,24.0,7882.0,238.0,3.95,491.0,1.99,3.45,9.99,107.0,43
+272,2000,Parachutes,https://www.discogs.com/master/3334-Coldplay-Parachutes,https://www.discogs.com/artist/29735-Coldplay,21.0,6573.0,434.0,4.01,796.0,0.34,1.7,12.0,262.0,22
+273,1986,Standing On A Beach • The Singles,https://www.discogs.com/master/22482-The-Cure-Standing-On-A-Beach-The-Singles,https://www.discogs.com/artist/28972-The-Cure,40.0,5260.0,410.0,4.4,504.0,13.07,34.06,62.49,31.0,36
+274,2015,To Pimp A Butterfly,https://www.discogs.com/master/810214-Kendrick-Lamar-To-Pimp-A-Butterfly,https://www.discogs.com/artist/1778977-Kendrick-Lamar,6.0,103.0,531.0,4.38,40.0,,,,,7
+275,1977,I Robot,https://www.discogs.com/master/4338-The-Alan-Parsons-Project-I-Robot,https://www.discogs.com/artist/66916-The-Alan-Parsons-Project,15.0,12081.0,942.0,4.08,1040.0,1.5,8.7,56.81,152.0,45
+276,1980,Glass Houses,https://www.discogs.com/master/68791-Billy-Joel-Glass-Houses,https://www.discogs.com/artist/137418-Billy-Joel,51.0,148.0,68.0,3.84,19.0,2.2,4.17,8.91,6.0,42
+277,1969,Yellow Submarine,https://www.discogs.com/master/54565-The-Beatles-Yellow-Submarine,https://www.discogs.com/artist/82730-The-Beatles,157.0,4046.0,2429.0,4.04,359.0,56.82,108.09,180.62,30.0,53
+278,1985,Promise,https://www.discogs.com/master/43946-Sade-Promise,https://www.discogs.com/artist/19731-Sade,13.0,6484.0,514.0,4.34,416.0,5.0,14.14,39.99,82.0,37
+279,1977,Even In The Quietest Moments...,https://www.discogs.com/master/25381-Supertramp-Even-In-The-Quietest-Moments,https://www.discogs.com/artist/251517-Supertramp,45.0,3006.0,138.0,3.92,283.0,1.7,7.94,26.77,47.0,45
+280,1984,Stop Making Sense,https://www.discogs.com/master/39350-Talking-Heads-Stop-Making-Sense,https://www.discogs.com/artist/22854-Talking-Heads,23.0,4064.0,821.0,4.42,284.0,10.86,32.58,56.81,13.0,38
+281,1969,Nashville Skyline,https://www.discogs.com/master/4550-Bob-Dylan-Nashville-Skyline,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,945.0,232.0,4.02,85.0,3.93,7.81,24.95,3.0,53
+282,1982,Nebraska,https://www.discogs.com/master/27192-Bruce-Springsteen-Nebraska,https://www.discogs.com/artist/219986-Bruce-Springsteen,89.0,8364.0,1478.0,4.35,580.0,7.0,15.5,64.49,57.0,40
+283,1987,Kiss Me Kiss Me Kiss Me,https://www.discogs.com/master/22500-The-Cure-Kiss-Me-Kiss-Me-Kiss-Me,https://www.discogs.com/artist/28972-The-Cure,40.0,85.0,205.0,4.75,12.0,4.05,7.15,13.5,1.0,35
+284,1987,Music For The Masses,https://www.discogs.com/master/17967-Depeche-Mode-Music-For-The-Masses,https://www.discogs.com/artist/2725-Depeche-Mode,39.0,1605.0,331.0,4.47,250.0,3.41,10.63,15.98,8.0,35
+285,1983,Sports,https://www.discogs.com/master/115328-Huey-Lewis-And-The-News-Sports,https://www.discogs.com/artist/178572-Huey-Lewis-The-News,25.0,18511.0,1077.0,3.97,1138.0,3.5,7.8,19.78,170.0,39
+286,2015,Currents,https://www.discogs.com/master/861083-Tame-Impala-Currents,https://www.discogs.com/artist/1245513-Tame-Impala,5.0,4735.0,3012.0,4.56,482.0,49.44,95.0,250.0,6.0,7
+287,1979,Discovery,https://www.discogs.com/master/17491-Electric-Light-Orchestra-Discovery,https://www.discogs.com/artist/112154-Electric-Light-Orchestra,35.0,3027.0,175.0,3.87,233.0,0.78,5.16,12.99,38.0,43
+288,1980,Boy,https://www.discogs.com/master/48750-U2-Boy,https://www.discogs.com/artist/6520-U2,71.0,64.0,88.0,,8.0,2.69,5.66,11.49,5.0,42
+289,2006,"Whatever People Say I Am, That's What I'm Not",https://www.discogs.com/master/76279-Arctic-Monkeys-Whatever-People-Say-I-Am-Thats-What-Im-Not,https://www.discogs.com/artist/391170-Arctic-Monkeys,9.0,22.0,294.0,,1.0,11.27,14.11,16.91,4.0,16
+290,1976,Arrival,https://www.discogs.com/master/5649-ABBA-Arrival,https://www.discogs.com/artist/69866-ABBA,22.0,966.0,155.0,3.85,89.0,2.62,4.93,11.54,39.0,46
+291,1967,Their Satanic Majesties Request,https://www.discogs.com/master/54327-The-Rolling-Stones-Their-Satanic-Majesties-Request,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,1174.0,590.0,4.27,166.0,28.18,55.26,101.5,21.0,55
+292,1965,Bringing It All Back Home,https://www.discogs.com/master/3823-Bob-Dylan-Bringing-It-All-Back-Home,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,1443.0,613.0,4.36,124.0,13.57,40.72,81.45,11.0,57
+293,1978,If You Want Blood You've Got It,https://www.discogs.com/master/8562-ACDC-If-You-Want-Blood-Youve-Got-It,https://www.discogs.com/artist/84752-ACDC,40.0,1504.0,249.0,4.21,153.0,3.41,15.89,40.54,18.0,44
+294,1970,Band Of Gypsys,https://www.discogs.com/master/75366-Hendrix-Band-Of-Gypsys,https://www.discogs.com/artist/110593-Jimi-Hendrix,198.0,988.0,449.0,4.41,98.0,6.0,11.4,140.54,9.0,52
+295,1971,The Allman Brothers Band At Fillmore East,https://www.discogs.com/master/17243-The-Allman-Brothers-Band-The-Allman-Brothers-Band-At-Fillmore-East,https://www.discogs.com/artist/110253-The-Allman-Brothers-Band,240.0,58.0,239.0,4.67,9.0,28.08,28.2,39.46,2.0,51
+296,1983,90125,https://www.discogs.com/master/35745-Yes-90125,https://www.discogs.com/artist/50263-Yes,73.0,4745.0,198.0,3.88,426.0,2.84,7.94,17.05,98.0,39
+297,1975,Young Americans,https://www.discogs.com/master/20174-David-Bowie-Young-Americans,https://www.discogs.com/artist/10263-David-Bowie,95.0,1417.0,410.0,4.15,136.0,6.28,18.15,35.0,10.0,47
+298,1969,Blind Faith,https://www.discogs.com/master/69841-Blind-Faith-Blind-Faith,https://www.discogs.com/artist/269050-Blind-Faith-2,1.0,4510.0,1591.0,4.26,467.0,14.86,48.0,108.52,94.0,53
+299,1985,Hounds Of Love,https://www.discogs.com/master/28680-Kate-Bush-Hounds-Of-Love,https://www.discogs.com/artist/85929-Kate-Bush,17.0,5516.0,790.0,4.24,444.0,5.36,11.68,29.31,51.0,37
+300,1982,Eye In The Sky,https://www.discogs.com/master/4424-The-Alan-Parsons-Project-Eye-In-The-Sky,https://www.discogs.com/artist/66916-The-Alan-Parsons-Project,15.0,6070.0,515.0,4.05,489.0,3.5,10.0,49.99,34.0,40
+301,1984,Reckless,https://www.discogs.com/master/13280-Bryan-Adams-Reckless,https://www.discogs.com/artist/10933-Bryan-Adams,48.0,166.0,56.0,4.45,11.0,0.99,2.0,3.99,19.0,38
+302,2004,Madvillainy,https://www.discogs.com/master/8554-Doom-And-Madlib-Madvillain-Madvillainy,https://www.discogs.com/artist/25058-MF-DOOM,15.0,1833.0,1141.0,4.69,395.0,3.0,10.41,36.36,11.0,18
+303,1979,The B-52's,https://www.discogs.com/master/53856-The-B-52s-The-B-52s,https://www.discogs.com/artist/242415-The-B-52s,17.0,2694.0,591.0,4.24,291.0,9.46,19.79,54.05,32.0,43
+304,1993,Siamese Dream,https://www.discogs.com/master/48681-Smashing-Pumpkins-Siamese-Dream,https://www.discogs.com/artist/28970-The-Smashing-Pumpkins,30.0,3426.0,440.0,4.36,434.0,1.14,4.17,13.04,29.0,29
+305,2013,Random Access Memories,https://www.discogs.com/release/4570366-Daft-Punk-Random-Access-Memories,https://www.discogs.com/artist/1289-Daft-Punk,9.0,,,,,,,,,9
+306,1984,Private Dancer,https://www.discogs.com/master/91767-Tina-Turner-Private-Dancer,https://www.discogs.com/artist/24221-Tina-Turner,30.0,,,,,,,,,38
+307,1967,Days Of Future Passed,https://www.discogs.com/master/41294-The-Moody-Blues-With-The-London-Festival-Orchestra-Conducted-By-Peter-Knight-Days-Of-Future-Passed,https://www.discogs.com/artist/266422-The-Moody-Blues,46.0,,,,,,,,,55
+308,1975,Sabotage,https://www.discogs.com/master/4785-Black-Sabbath-Sabotage,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,,,,,,,,,47
+309,1974,Sheer Heart Attack,https://www.discogs.com/master/5303-Queen-Sheer-Heart-Attack,https://www.discogs.com/artist/81013-Queen,85.0,,,,,,,,,48
+310,1974,461 Ocean Boulevard,https://www.discogs.com/master/69859-Eric-Clapton-461-Ocean-Boulevard,https://www.discogs.com/artist/17827-Eric-Clapton,103.0,,,,,,,,,48
+311,1984,Hatful Of Hollow,https://www.discogs.com/master/20048-The-Smiths-Hatful-Of-Hollow,https://www.discogs.com/artist/83080-The-Smiths,9.0,,,,,,,,,38
+312,1987,Faith,https://www.discogs.com/master/96689-George-Michael-Faith,https://www.discogs.com/artist/32990-George-Michael,16.0,,,,,,,,,35
+313,2003,Elephant,https://www.discogs.com/master/10341-The-White-Stripes-Elephant,https://www.discogs.com/artist/116345-The-White-Stripes,41.0,,,,,,,,,19
+314,1960,Sketches Of Spain,https://www.discogs.com/master/48172-Miles-Davis-Sketches-Of-Spain,https://www.discogs.com/artist/23755-Miles-Davis,155.0,,,,,,,,,62
+315,1972,Talking Book,https://www.discogs.com/master/87446-Stevie-Wonder-Talking-Book,https://www.discogs.com/artist/18956-Stevie-Wonder,44.0,,,,,,,,,50
+316,1966,Big Hits (High Tide And Green Grass),https://www.discogs.com/master/30247-The-Rolling-Stones-Big-Hits-High-Tide-And-Green-Grass,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,,,,,,,,,56
+317,1980,Seventeen Seconds,https://www.discogs.com/master/20278-The-Cure-Seventeen-Seconds,https://www.discogs.com/artist/28972-The-Cure,40.0,,,,,,,,,42
+318,1971,Ram,https://www.discogs.com/master/92517-Paul-And-Linda-McCartney-Ram,https://www.discogs.com/artist/938844-Paul-Linda-McCartney,8.0,,,,,,,,,51
+319,1983,She's So Unusual,https://www.discogs.com/master/28859-Cyndi-Lauper-Shes-So-Unusual,https://www.discogs.com/artist/29718-Cyndi-Lauper,16.0,,,,,,,,,39
+320,1968,A Saucerful Of Secrets,https://www.discogs.com/master/10352-Pink-Floyd-A-Saucerful-Of-Secrets,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,,,,,,,,,54
+321,1967,Surrealistic Pillow,https://www.discogs.com/master/47868-Jefferson-Airplane-Surrealistic-Pillow,https://www.discogs.com/artist/58687-Jefferson-Airplane,37.0,,,,,,,,,55
+322,1985,Meat Is Murder,https://www.discogs.com/master/4186-The-Smiths-Meat-Is-Murder,https://www.discogs.com/artist/83080-The-Smiths,9.0,,,,,,,,,37
+323,1978,The Kick Inside,https://www.discogs.com/master/28531-Kate-Bush-The-Kick-Inside,https://www.discogs.com/artist/85929-Kate-Bush,17.0,,,,,,,,,44
+324,1992,The Chronic,https://www.discogs.com/master/33951-Dr-Dre-The-Chronic,https://www.discogs.com/artist/50513-Dr-Dre,5.0,,,,,,,,,30
+325,1984,Welcome To The Pleasuredome,https://www.discogs.com/master/71134-Frankie-Goes-To-Hollywood-Welcome-To-The-Pleasuredome,https://www.discogs.com/artist/6273-Frankie-Goes-To-Hollywood,4.0,,,,,,,,,38
+326,1969,The Soft Parade,https://www.discogs.com/master/45384-The-Doors-The-Soft-Parade,https://www.discogs.com/artist/56798-The-Doors,60.0,,,,,,,,,53
+327,1968,Smash Hits,https://www.discogs.com/master/24556-Jimi-Hendrix-Experience-Smash-Hits,https://www.discogs.com/artist/255672-The-Jimi-Hendrix-Experience,30.0,,,,,,,,,54
+328,1985,Little Creatures,https://www.discogs.com/master/39301-Talking-Heads-Little-Creatures,https://www.discogs.com/artist/22854-Talking-Heads,23.0,,,,,,,,,37
+329,1998,Moon Safari,https://www.discogs.com/master/1622-AIR-French-Band-Moon-Safari,https://www.discogs.com/artist/2770-AIR,10.0,,,,,,,,,24
+330,1980,Heaven And Hell,https://www.discogs.com/master/5720-Black-Sabbath-Heaven-And-Hell,https://www.discogs.com/artist/144998-Black-Sabbath,36.0,,,,,,,,,42
+331,1977,Trans Europa Express,https://www.discogs.com/master/2877-Kraftwerk-Trans-Europa-Express,https://www.discogs.com/artist/4654-Kraftwerk,19.0,,,,,,,,,45
+332,1979,Damn The Torpedoes,https://www.discogs.com/master/74332-Tom-Petty-And-The-Heartbreakers-Damn-The-Torpedoes,https://www.discogs.com/artist/269534-Tom-Petty-And-The-Heartbreakers,55.0,,,,,,,,,43
+333,1997,Homework,https://www.discogs.com/master/26629-Daft-Punk-Homework,https://www.discogs.com/artist/1289-Daft-Punk,9.0,,,,,,,,,25
+334,1982,Coda,https://www.discogs.com/master/4498-Led-Zeppelin-Coda,https://www.discogs.com/artist/34278-Led-Zeppelin,61.0,,,,,,,,,40
+335,1981,Abacab,https://www.discogs.com/master/28767-Genesis-Abacab,https://www.discogs.com/artist/124506-Genesis,85.0,,,,,,,,,41
+336,1966,Sounds Of Silence,https://www.discogs.com/master/27811-Simon-Garfunkel-Sounds-Of-Silence,https://www.discogs.com/artist/232157-Simon-amp-Garfunkel,11.0,,,,,,,,,56
+337,1983,An Innocent Man,https://www.discogs.com/master/43553-Billy-Joel-An-Innocent-Man,https://www.discogs.com/artist/137418-Billy-Joel,51.0,,,,,,,,,39
+338,1980,British Steel,https://www.discogs.com/master/26170-Judas-Priest-British-Steel,https://www.discogs.com/artist/252121-Judas-Priest,35.0,,,,,,,,,42
+339,1982,The Concert In Central Park,https://www.discogs.com/master/27817-Simon-Garfunkel-The-Concert-In-Central-Park,https://www.discogs.com/artist/232157-Simon-amp-Garfunkel,11.0,,,,,,,,,40
+340,1973,Pinups,https://www.discogs.com/master/22208-Bowie-Pinups,https://www.discogs.com/artist/10263-David-Bowie,95.0,,,,,,,,,49
+341,1978,Powerage,https://www.discogs.com/master/8531-ACDC-Powerage,https://www.discogs.com/artist/84752-ACDC,40.0,,,,,,,,,44
+342,1988,Straight Outta Compton,https://www.discogs.com/master/26117-NWA-Straight-Outta-Compton,https://www.discogs.com/artist/13726-NWA,3.0,,,,,,,,,34
+343,1979,Van Halen II,https://www.discogs.com/master/29433-Van-Halen-Van-Halen-II,https://www.discogs.com/artist/94066-Van-Halen,37.0,,,,,,,,,43
+344,1986,Black Celebration,https://www.discogs.com/master/17749-Depeche-Mode-Black-Celebration,https://www.discogs.com/artist/2725-Depeche-Mode,39.0,,,,,,,,,36
+345,1976,Fly Like An Eagle,https://www.discogs.com/master/82406-Steve-Miller-Band-Fly-Like-An-Eagle,https://www.discogs.com/artist/29815-Steve-Miller-Band,37.0,,,,,,,,,46
+346,1989,Pretty Hate Machine,https://www.discogs.com/master/3406-Nine-Inch-Nails-Pretty-Hate-Machine,https://www.discogs.com/artist/3857-Nine-Inch-Nails,19.0,,,,,,,,,33
+347,2017,Damn.,https://www.discogs.com/master/1164779-Kendrick-Lamar-Damn,https://www.discogs.com/artist/1778977-Kendrick-Lamar,6.0,,,,,,,,,5
+348,1979,Fear Of Music,https://www.discogs.com/master/39260-Talking-Heads-Fear-Of-Music,https://www.discogs.com/artist/22854-Talking-Heads,23.0,,,,,,,,,43
+349,1982,Pornography,https://www.discogs.com/master/20238-The-Cure-Pornography,https://www.discogs.com/artist/28972-The-Cure,40.0,,,,,,,,,40
+350,1980,Hotter Than July,https://www.discogs.com/master/87442-Stevie-Wonder-Hotter-Than-July,https://www.discogs.com/artist/18956-Stevie-Wonder,44.0,,,,,,,,,42
+351,1980,Emotional Rescue,https://www.discogs.com/master/39888-The-Rolling-Stones-Emotional-Rescue,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,,,,,,,,,42
+352,1977,Talking Heads: 77,https://www.discogs.com/master/39365-Talking-Heads-Talking-Heads-77,https://www.discogs.com/artist/22854-Talking-Heads,23.0,,,,,,,,,45
+353,1969,Everybody Knows This Is Nowhere,https://www.discogs.com/master/38719-Neil-Young-With-Crazy-Horse-Everybody-Knows-This-Is-Nowhere,https://www.discogs.com/artist/295522-Neil-Young-Crazy-Horse,25.0,,,,,,,,,53
+354,1996,Endtroducing.....,https://www.discogs.com/master/15313-DJ-Shadow-Endtroducing,https://www.discogs.com/artist/4478-DJ-Shadow,12.0,,,,,,,,,26
+355,1967,Bob Dylan's Greatest Hits,https://www.discogs.com/master/27269-Bob-Dylan-Bob-Dylans-Greatest-Hits,https://www.discogs.com/artist/59792-Bob-Dylan,97.0,,,,,,,,,55
+356,1976,A Trick Of The Tail,https://www.discogs.com/master/28748-Genesis-A-Trick-Of-The-Tail,https://www.discogs.com/artist/124506-Genesis,85.0,,,,,,,,,46
+357,1971,Electric Warrior,https://www.discogs.com/master/72458-T-Rex-Electric-Warrior,https://www.discogs.com/artist/255047-T-Rex,43.0,,,,,,,,,51
+358,1978,Don't Look Back,https://www.discogs.com/master/59367-Boston-Dont-Look-Back,https://www.discogs.com/artist/113020-Boston,11.0,,,,,,,,,44
+359,1986,Reign In Blood,https://www.discogs.com/master/7728-Slayer-Reign-In-Blood,https://www.discogs.com/artist/18845-Slayer,16.0,,,,,,,,,36
+360,2001,Toxicity,https://www.discogs.com/master/35626-System-Of-A-Down-Toxicity,https://www.discogs.com/artist/85889-System-Of-A-Down,6.0,,,,,,,,,21
+361,1974,The Lamb Lies Down On Broadway,https://www.discogs.com/master/29256-Genesis-The-Lamb-Lies-Down-On-Broadway,https://www.discogs.com/artist/124506-Genesis,85.0,,,,,,,,,48
+362,1985,Around The World In A Day,https://www.discogs.com/master/16079-Prince-And-The-Revolution-Around-The-World-In-A-Day,https://www.discogs.com/artist/96774-Prince-And-The-Revolution,3.0,,,,,,,,,37
+363,1980,The Blues Brothers (Original Soundtrack Recording),https://www.discogs.com/master/107118-The-Blues-Brothers-The-Blues-Brothers-Original-Soundtrack-Recording,https://www.discogs.com/artist/254441-The-Blues-Brothers,3.0,,,,,,,,,42
+364,1973,Head Hunters,https://www.discogs.com/master/19493-Herbie-Hancock-Head-Hunters,https://www.discogs.com/artist/3865-Herbie-Hancock,91.0,,,,,,,,,49
+365,1975,Greatest Hits,https://www.discogs.com/master/37334-Cat-Stevens-Greatest-Hits,https://www.discogs.com/artist/37606-Cat-Stevens,20.0,,,,,,,,,47
+366,1977,Running On Empty,https://www.discogs.com/master/26037-Jackson-Browne-Running-On-Empty,https://www.discogs.com/artist/200567-Jackson-Browne,31.0,,,,,,,,,45
+367,1982,"Hello, I Must Be Going!",https://www.discogs.com/master/96207-Phil-Collins-Hello-I-Must-Be-Going,https://www.discogs.com/artist/101028-Phil-Collins,65.0,,,,,,,,,40
+368,1984,Some Great Reward,https://www.discogs.com/master/18001-Depeche-Mode-Some-Great-Reward,https://www.discogs.com/artist/2725-Depeche-Mode,39.0,,,,,,,,,38
+369,1982,Screaming For Vengeance,https://www.discogs.com/master/26341-Judas-Priest-Screaming-For-Vengeance,https://www.discogs.com/artist/252121-Judas-Priest,35.0,,,,,,,,,40
+370,1987,Tunnel Of Love,https://www.discogs.com/master/27206-Bruce-Springsteen-Tunnel-Of-Love,https://www.discogs.com/artist/219986-Bruce-Springsteen,89.0,,,,,,,,,35
+371,1976,Tales Of Mystery And Imagination - Edgar Allan Poe,https://www.discogs.com/master/4322-The-Alan-Parsons-Project-Tales-Of-Mystery-And-Imagination-Edgar-Allan-Poe,https://www.discogs.com/artist/66916-The-Alan-Parsons-Project,15.0,,,,,,,,,46
+372,1980,Ace Of Spades,https://www.discogs.com/master/38512-Mot%C3%B6rhead-Ace-Of-Spades,https://www.discogs.com/artist/233658-Motörhead,49.0,,,,,,,,,42
+373,1981,Escape,https://www.discogs.com/master/80583-Journey-Escape,https://www.discogs.com/artist/128395-Journey,55.0,,,,,,,,,41
+374,1969,The Stooges,https://www.discogs.com/master/38215-The-Stooges-The-Stooges,https://www.discogs.com/artist/39770-The-Stooges,34.0,,,,,,,,,53
+375,1969,Willy And The Poor Boys,https://www.discogs.com/master/55288-Creedence-Clearwater-Revival-Willy-And-The-Poor-Boys,https://www.discogs.com/artist/252102-Creedence-Clearwater-Revival,18.0,,,,,,,,,53
+376,2001,Gorillaz,https://www.discogs.com/master/57988-Gorillaz-Gorillaz,https://www.discogs.com/artist/6378-Gorillaz,11.0,,,,,,,,,21
+377,1981,Computerwelt,https://www.discogs.com/master/3112-Kraftwerk-Computerwelt,https://www.discogs.com/artist/4654-Kraftwerk,19.0,,,,,,,,,41
+378,2011,21,https://www.discogs.com/master/303567-Adele-21,https://www.discogs.com/artist/819015-Adele-3,6.0,,,,,,,,,11
+379,1970,Woodstock - Music From The Original Soundtrack And More,https://www.discogs.com/master/61073-Various-Woodstock-Music-From-The-Original-Soundtrack-And-More,https://www.discogs.com/artist/Various?anv=,,,,,,,,,,52
+380,1968,Cheap Thrills,https://www.discogs.com/master/72262-Big-Brother-The-Holding-Company-Cheap-Thrills,https://www.discogs.com/artist/90232-Big-Brother-amp-The-Holding-Company,17.0,,,,,,,,,54
+381,1985,Hunting High And Low,https://www.discogs.com/master/11134-a-ha-Hunting-High-And-Low,https://www.discogs.com/artist/37757-a-ha,14.0,,,,,,,,,37
+382,1977,Star Wars,https://www.discogs.com/master/25529-John-Williams-4London-Symphony-Orchestra-Star-Wars,https://www.discogs.com/artist/273394-John-Williams-4,236.0,,,,,,,,,45
+383,1968,Bookends,https://www.discogs.com/master/27757-Simon-Garfunkel-Bookends,https://www.discogs.com/artist/232157-Simon-amp-Garfunkel,11.0,,,,,,,,,54
+384,1980,Peter Gabriel,https://www.discogs.com/master/29662-Peter-Gabriel-Peter-Gabriel,https://www.discogs.com/artist/11136-Peter-Gabriel,54.0,,,,,,,,,42
+385,1964,Meet The Beatles!,https://www.discogs.com/master/75259-The-Beatles-Meet-The-Beatles,https://www.discogs.com/artist/82730-The-Beatles,157.0,,,,,,,,,58
+386,1991,Blue Lines,https://www.discogs.com/master/32618-Massive-Attack-Blue-Lines,https://www.discogs.com/artist/4480-Massive-Attack,13.0,,,,,,,,,31
+387,1975,Radio-Aktivität,https://www.discogs.com/master/3228-Kraftwerk-Radio-Aktivit%C3%A4t,https://www.discogs.com/artist/4654-Kraftwerk,19.0,,,,,,,,,47
+388,1970,McCartney,https://www.discogs.com/master/39887-McCartney-McCartney,https://www.discogs.com/artist/35301-Paul-McCartney,70.0,,,,,,,,,52
+389,1966,"Parsley, Sage, Rosemary And Thyme",https://www.discogs.com/master/27785-Simon-And-Garfunkel-Parsley-Sage-Rosemary-And-Thyme,https://www.discogs.com/artist/232157-Simon-Garfunkel,11.0,,,,,,,,,56
+390,2000,1,https://www.discogs.com/master/447254-The-Beatles-1,https://www.discogs.com/artist/82730-The-Beatles,157.0,,,,,,,,,22
+391,1984,Make It Big,https://www.discogs.com/master/102749-Wham-Make-It-Big,https://www.discogs.com/artist/17641-Wham!,5.0,,,,,,,,,38
+392,1972,Can't Buy A Thrill,https://www.discogs.com/master/16883-Steely-Dan-Cant-Buy-A-Thrill,https://www.discogs.com/artist/160906-Steely-Dan,23.0,,,,,,,,,50
+393,1971,Blue,https://www.discogs.com/master/47744-Joni-Mitchell-Blue,https://www.discogs.com/artist/90233-Joni-Mitchell,34.0,,,,,,,,,51
+394,1985,Whitney Houston,https://www.discogs.com/master/51607-Whitney-Houston-Whitney-Houston,https://www.discogs.com/artist/30542-Whitney-Houston,11.0,,,,,,,,,37
+395,1973,Queen,https://www.discogs.com/master/5598-Queen-Queen,https://www.discogs.com/artist/81013-Queen,85.0,,,,,,,,,49
+396,1972,Foxtrot,https://www.discogs.com/master/28853-Genesis-Foxtrot,https://www.discogs.com/artist/124506-Genesis,85.0,,,,,,,,,50
+397,1981,Bella Donna,https://www.discogs.com/master/86977-Stevie-Nicks-Bella-Donna,https://www.discogs.com/artist/13735-Stevie-Nicks,42.0,,,,,,,,,41
+398,1984,Alchemy - Dire Straits Live,https://www.discogs.com/master/23669-Dire-Straits-Alchemy-Dire-Straits-Live,https://www.discogs.com/artist/103687-Dire-Straits,60.0,,,,,,,,,38
+399,1997,The Fat Of The Land,https://www.discogs.com/master/12165-Prodigy-The-Fat-Of-The-Land,https://www.discogs.com/artist/66852-The-Prodigy,9.0,,,,,,,,,25
+400,1994,Vitalogy,https://www.discogs.com/master/73769-Pearl-Jam-Vitalogy,https://www.discogs.com/artist/175395-Pearl-Jam,534.0,,,,,,,,,28
+401,1971,The Yes Album,https://www.discogs.com/master/34991-Yes-The-Yes-Album,https://www.discogs.com/artist/50263-Yes,73.0,,,,,,,,,51
+402,1978,Who Are You,https://www.discogs.com/master/68464-The-Who-Who-Are-You,https://www.discogs.com/artist/196766-The-Who,80.0,,,,,,,,,44
+403,1994,Ill Communication,https://www.discogs.com/master/20173-Beastie-Boys-Ill-Communication,https://www.discogs.com/artist/10783-Beastie-Boys,19.0,,,,,,,,,28
+404,1980,Super Trouper,https://www.discogs.com/master/25734-ABBA-Super-Trouper,https://www.discogs.com/artist/69866-ABBA,22.0,,,,,,,,,42
+405,1980,Uprising,https://www.discogs.com/master/66044-Bob-Marley-The-Wailers-Uprising,https://www.discogs.com/artist/21764-Bob-Marley-amp-The-Wailers,64.0,,,,,,,,,42
+406,1975,Alive!,https://www.discogs.com/master/41737-Kiss-Alive,https://www.discogs.com/artist/153073-Kiss,82.0,,,,,,,,,47
+407,2016,Hardwired...To Self-Destruct,https://www.discogs.com/master/1083868-Metallica-HardwiredTo-Self-Destruct,https://www.discogs.com/artist/18839-Metallica,134.0,,,,,,,,,6
+408,1975,Horses,https://www.discogs.com/master/40109-Patti-Smith-Horses,https://www.discogs.com/artist/193816-Patti-Smith,31.0,,,,,,,,,47
+409,1970,Get Yer Ya-Ya's Out! (The Rolling Stones In Concert),https://www.discogs.com/master/30405-The-Rolling-Stones-Get-Yer-Ya-Yas-Out-The-Rolling-Stones-In-Concert,https://www.discogs.com/artist/20991-The-Rolling-Stones,107.0,,,,,,,,,52
+410,1979,Voulez-Vous,https://www.discogs.com/master/25796-ABBA-Voulez-Vous,https://www.discogs.com/artist/69866-ABBA,22.0,,,,,,,,,43
+411,1971,Fireball,https://www.discogs.com/master/1632-Deep-Purple-Fireball,https://www.discogs.com/artist/170355-Deep-Purple,86.0,,,,,,,,,51
+412,1969,Green River,https://www.discogs.com/master/55272-Creedence-Clearwater-Revival-Green-River,https://www.discogs.com/artist/252102-Creedence-Clearwater-Revival,18.0,,,,,,,,,53
+413,1981,Diary Of A Madman,https://www.discogs.com/master/41160-Ozzy-Osbourne-Diary-Of-A-Madman,https://www.discogs.com/artist/59770-Ozzy-Osbourne,36.0,,,,,,,,,41
+414,1974,Endless Summer,https://www.discogs.com/master/78212-The-Beach-Boys-Endless-Summer,https://www.discogs.com/artist/70829-The-Beach-Boys,71.0,,,,,,,,,48
+415,1984,The Smiths,https://www.discogs.com/master/4264-The-Smiths-The-Smiths,https://www.discogs.com/artist/83080-The-Smiths,9.0,,,,,,,,,38
+416,1970,American Beauty,https://www.discogs.com/master/18442-Grateful-Dead-American-Beauty,https://www.discogs.com/artist/246650-The-Grateful-Dead,286.0,,,,,,,,,52
+417,1981,October,https://www.discogs.com/master/48796-U2-October,https://www.discogs.com/artist/6520-U2,71.0,,,,,,,,,41
+418,1982,Asia,https://www.discogs.com/master/94351-Asia-Asia,https://www.discogs.com/artist/257619-Asia-2,72.0,,,,,,,,,40
+419,1980,Fresh Fruit For Rotting Vegetables,https://www.discogs.com/master/31756-Dead-Kennedys-Fresh-Fruit-For-Rotting-Vegetables,https://www.discogs.com/artist/239092-Dead-Kennedys,8.0,,,,,,,,,42
+420,1973,Janis Joplin's Greatest Hits,https://www.discogs.com/master/72232-Janis-Joplin-Janis-Joplins-Greatest-Hits,https://www.discogs.com/artist/120232-Janis-Joplin,24.0,,,,,,,,,49
+421,1977,Peter Gabriel,https://www.discogs.com/master/29615-Peter-Gabriel-Peter-Gabriel,https://www.discogs.com/artist/11136-Peter-Gabriel,54.0,,,,,,,,,45
+422,1986,Live / 1975-85,https://www.discogs.com/master/27684-Bruce-Springsteen-The-E-Street-Band-Live-1975-85,https://www.discogs.com/artist/760706-Bruce-Springsteen-The-E-Street-Band,187.0,,,,,,,,,36
+423,1967,Songs Of Leonard Cohen,https://www.discogs.com/master/3832-Leonard-Cohen-Songs-Of-Leonard-Cohen,https://www.discogs.com/artist/227848-Leonard-Cohen,32.0,,,,,,,,,55
+424,1989,Like A Prayer,https://www.discogs.com/master/34627-Madonna-Like-A-Prayer,https://www.discogs.com/artist/8760-Madonna,34.0,,,,,,,,,33
+425,1971,4 Way Street,https://www.discogs.com/master/65169-Crosby-Stills-Nash-Young-4-Way-Street,https://www.discogs.com/artist/285408-Crosby-Stills-Nash-amp-Young,24.0,,,,,,,,,51
+426,1992,Unplugged,https://www.discogs.com/master/85294-Eric-Clapton-Unplugged,https://www.discogs.com/artist/17827-Eric-Clapton,103.0,,,,,,,,,30
+427,1986,A Kind Of Magic,https://www.discogs.com/master/16143-Queen-A-Kind-Of-Magic,https://www.discogs.com/artist/81013-Queen,85.0,,,,,,,,,36
+428,1978,Equinoxe,https://www.discogs.com/master/49172-Jean-Michel-Jarre-Equinoxe,https://www.discogs.com/artist/209415-Jean-Michel-Jarre,38.0,,,,,,,,,44
+429,1983,Relax,https://www.discogs.com/master/74500-Frankie-Goes-To-Hollywood-Relax,https://www.discogs.com/artist/6273-Frankie-Goes-To-Hollywood,4.0,,,,,,,,,39
+430,2010,My Beautiful Dark Twisted Fantasy,https://www.discogs.com/master/288153-Kanye-West-My-Beautiful-Dark-Twisted-Fantasy,https://www.discogs.com/artist/137880-Kanye-West,20.0,,,,,,,,,12
+431,1975,Captain Fantastic And The Brown Dirt Cowboy,https://www.discogs.com/master/30569-Elton-John-Captain-Fantastic-And-The-Brown-Dirt-Cowboy,https://www.discogs.com/artist/57103-Elton-John,149.0,,,,,,,,,47
+432,1979,Dynasty,https://www.discogs.com/master/41703-Kiss-Dynasty,https://www.discogs.com/artist/153073-Kiss,82.0,,,,,,,,,43
+433,1975,One Of These Nights,https://www.discogs.com/master/59482-Eagles-One-Of-These-Nights,https://www.discogs.com/artist/255680-Eagles,24.0,,,,,,,,,47
+434,1971,American Pie ,https://www.discogs.com/master/84646-Don-McLean-American-Pie-,https://www.discogs.com/artist/229866-Don-McLean,30.0,,,,,,,,,51
+435,1973,Tres Hombres,https://www.discogs.com/master/48131-ZZ-Top-Tres-Hombres,https://www.discogs.com/artist/113655-ZZ-Top,36.0,,,,,,,,,49
+436,1969,"Soundtrack From The Film ""More""",https://www.discogs.com/master/20679-Pink-Floyd-Soundtrack-From-The-Film-More,https://www.discogs.com/artist/45467-Pink-Floyd,62.0,,,,,,,,,53
+437,1973,Brothers And Sisters,https://www.discogs.com/master/17249-The-Allman-Brothers-Band-Brothers-And-Sisters,https://www.discogs.com/artist/110253-The-Allman-Brothers-Band,240.0,,,,,,,,,49
+438,1988,G N' R Lies,https://www.discogs.com/master/9480-Guns-N-Roses-G-N-R-Lies,https://www.discogs.com/artist/124535-Guns-N-Roses,17.0,,,,,,,,,34
+439,1983,Holy Diver,https://www.discogs.com/master/29124-Dio-Holy-Diver,https://www.discogs.com/artist/252122-Dio-2,28.0,,,,,,,,,39
+440,1978,...And Then There Were Three...,https://www.discogs.com/master/28715-Genesis-And-Then-There-Were-Three,https://www.discogs.com/artist/124506-Genesis,85.0,,,,,,,,,44
+441,1972,Honky Château,https://www.discogs.com/master/85555-Elton-John-Honky-Ch%C3%A2teau,https://www.discogs.com/artist/57103-Elton-John,149.0,,,,,,,,,50
+442,1980,Pretenders,https://www.discogs.com/master/69563-Pretenders-Pretenders,https://www.discogs.com/artist/197435-The-Pretenders,40.0,,,,,,,,,42
+443,1983,Colour By Numbers,https://www.discogs.com/master/48240-Culture-Club-Colour-By-Numbers,https://www.discogs.com/artist/9706-Culture-Club,25.0,,,,,,,,,39
+444,1974,Queen II,https://www.discogs.com/master/31526-Queen-Queen-II,https://www.discogs.com/artist/81013-Queen,85.0,,,,,,,,,48
+445,1977,My Aim Is True,https://www.discogs.com/master/39488-Elvis-Costello-My-Aim-Is-True,https://www.discogs.com/artist/55029-Elvis-Costello,53.0,,,,,,,,,45
+446,1978,More Songs About Buildings And Food,https://www.discogs.com/master/39312-Talking-Heads-More-Songs-About-Buildings-And-Food,https://www.discogs.com/artist/22854-Talking-Heads,23.0,,,,,,,,,44
+447,1984,Heartbeat City,https://www.discogs.com/master/69630-The-Cars-Heartbeat-City,https://www.discogs.com/artist/143225-The-Cars,33.0,,,,,,,,,38
+448,1977,The Album,https://www.discogs.com/master/25721-ABBA-The-Album,https://www.discogs.com/artist/69866-ABBA,22.0,,,,,,,,,45
+449,1979,Rust Never Sleeps,https://www.discogs.com/master/38738-Neil-Young-Crazy-Horse-Rust-Never-Sleeps,https://www.discogs.com/artist/295522-Neil-Young-amp-Crazy-Horse,25.0,,,,,,,,,43
